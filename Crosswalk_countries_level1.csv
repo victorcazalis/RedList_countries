@@ -1,0 +1,1112 @@
+fid,GID_0,COUNTRY,GID_1,NAME_1,VARNAME_1,NL_NAME_1,TYPE_1,ENGTYPE_1,CC_1,HASC_1,ISO_1,SIS_RegionName,ToSplit
+35,AGO,Angola,AGO.1_1,Bengo,NA,NA,Província,Province,1,AO.BO,AO-BGO,Angola,NA
+36,AGO,Angola,AGO.2_1,Benguela,Benguella,NA,Província,Province,2,AO.BG,AO-BGU,Angola,NA
+37,AGO,Angola,AGO.3_1,Bié,NA,NA,Província,Province,3,AO.BI,NA,Angola,NA
+38,AGO,Angola,AGO.4_1,Cabinda,NA,NA,Província,Province,4,AO.CB,AO-CAB,Cabinda,NA
+39,AGO,Angola,AGO.5_1,Cuando Cubango,NA,NA,Província,Province,5,AO.CC,AO-CCU,Angola,NA
+40,AGO,Angola,AGO.6_1,Cuanza Norte,Cuanza-Nord|Kwanza Norte,NA,Província,Province,6,AO.CN,NA,Angola,NA
+41,AGO,Angola,AGO.7_1,Cuanza Sul,Cuanza-Sud|Kwanza Sul,NA,Província,Province,7,AO.CS,NA,Angola,NA
+42,AGO,Angola,AGO.8_1,Cunene,NA,NA,Província,Province,8,AO.CU,AO-CNN,Angola,NA
+43,AGO,Angola,AGO.9_1,Huambo,NA,NA,Província,Province,9,AO.HM,AO-HUA,Angola,NA
+44,AGO,Angola,AGO.10_1,Huíla,NA,NA,Província,Province,10,AO.HL,NA,Angola,NA
+45,AGO,Angola,AGO.11_1,Luanda,Loanda,NA,Província,Province,11,AO.LU,AO-LUA,Angola,NA
+46,AGO,Angola,AGO.12_1,Lunda Norte,NA,NA,Província,Province,12,AO.LN,NA,Angola,NA
+47,AGO,Angola,AGO.13_1,Lunda Sul,NA,NA,Província,Province,13,AO.LS,NA,Angola,NA
+48,AGO,Angola,AGO.14_1,Malanje,Malange,NA,Província,Province,14,AO.ML,NA,Angola,NA
+49,AGO,Angola,AGO.15_1,Moxico,NA,NA,Província,Province,15,AO.MX,AO-MOX,Angola,NA
+50,AGO,Angola,AGO.16_1,Namibe,Moçâmedes|Mossamedes,NA,Província,Province,16,AO.NA,AO-NAM,Angola,NA
+51,AGO,Angola,AGO.17_1,Uíge,NA,NA,Província,Province,17,AO.UI,NA,Angola,NA
+52,AGO,Angola,AGO.18_1,Zaire,NA,NA,Província,Province,18,AO.ZA,AO-ZAI,Angola,NA
+100,ARG,Argentina,ARG.1_1,Buenos Aires,Baires|Buenos Ayres,NA,Provincia,Province,NA,AR.BA,AR-B,Buenos Aires,NA
+101,ARG,Argentina,ARG.2_1,Catamarca,NA,NA,Provincia,Province,NA,AR.CT,AR-K,Catamarca,NA
+102,ARG,Argentina,ARG.3_1,Chaco,El Chaco|Presidente Juan Peron,NA,Provincia,Province,NA,AR.CC,AR-H,Chaco,NA
+103,ARG,Argentina,ARG.4_1,Chubut,NA,NA,Provincia,Province,NA,AR.CH,AR-U,Chubut,NA
+104,ARG,Argentina,ARG.5_1,Ciudad de Buenos Aires,BUENOS AIRES D.F.|Capital Federa,NA,Distrito Federal,Federal District,NA,AR.DF,NA,Argentina Distrito Federal,NA
+105,ARG,Argentina,ARG.6_1,Córdoba,Cordova,NA,Provincia,Province,NA,AR.CB,NA,C�rdoba,NA
+106,ARG,Argentina,ARG.7_1,Corrientes,NA,NA,Provincia,Province,NA,AR.CN,AR-W,Corrientes,NA
+107,ARG,Argentina,ARG.8_1,Entre Ríos,Entre-Rios,NA,Provincia,Province,NA,AR.ER,NA,Entre R�os,NA
+108,ARG,Argentina,ARG.9_1,Formosa,NA,NA,Provincia,Province,NA,AR.FM,AR-P,Formosa,NA
+109,ARG,Argentina,ARG.10_1,Jujuy,NA,NA,Provincia,Province,NA,AR.JY,AR-Y,Jujuy,NA
+110,ARG,Argentina,ARG.11_1,La Pampa,El Pampa|Eva Perón,NA,Provincia,Province,NA,AR.LP,AR-L,La Pampa,NA
+111,ARG,Argentina,ARG.12_1,La Rioja,NA,NA,Provincia,Province,NA,AR.LR,AR-F,La Rioja,NA
+112,ARG,Argentina,ARG.13_1,Mendoza,NA,NA,Provincia,Province,NA,AR.MZ,AR-M,Mendoza,NA
+113,ARG,Argentina,ARG.14_1,Misiones,Missões,NA,Provincia,Province,NA,AR.MN,AR-N,Misiones,NA
+114,ARG,Argentina,ARG.15_1,Neuquén,Neuquén,NA,Provincia,Province,NA,AR.NQ,NA,Neuqu�n,NA
+115,ARG,Argentina,ARG.16_1,Río Negro,NA,NA,Provincia,Province,NA,AR.RN,NA,Rio Negro,NA
+116,ARG,Argentina,ARG.17_1,Salta,NA,NA,Provincia,Province,NA,AR.SA,AR-A,Salta,NA
+117,ARG,Argentina,ARG.18_1,San Juan,NA,NA,Provincia,Province,NA,AR.SJ,AR-J,San Juan,NA
+118,ARG,Argentina,ARG.19_1,San Luis,NA,NA,Provincia,Province,NA,AR.SL,AR-D,San Luis,NA
+119,ARG,Argentina,ARG.20_1,Santa Cruz,NA,NA,Provincia,Province,NA,AR.SC,AR-Z,Santa Cruz,NA
+120,ARG,Argentina,ARG.21_1,Santa Fe,Santa Fé,NA,Provincia,Province,NA,AR.SF,AR-S,Santa F�,NA
+121,ARG,Argentina,ARG.22_1,Santiago del Estero,NA,NA,Provincia,Province,NA,AR.SE,AR-G,Santiago del Estero,NA
+122,ARG,Argentina,ARG.23_1,Tierra del Fuego,Feuerland|Terra del Fuoco|Terre,NA,Provincia,Province,NA,AR.TF,AR-V,Tierra del Fuego,NA
+123,ARG,Argentina,ARG.24_1,Tucumán,Tucumão,NA,Provincia,Province,NA,AR.TM,NA,Tucum�n,NA
+124,ARM,Armenia,ARM.1_1,Aragatsotn,Aragacot'n,Արագածոտն|Арагацотн,Marz,Province,NA,AM.AG,NA,Armenia,NA
+125,ARM,Armenia,ARM.2_1,Ararat,NA,Արարատ|Арарат,Marz,Province,NA,AM.AR,AM-AR,Armenia,NA
+126,ARM,Armenia,ARM.3_1,Armavir,NA,Արմավիր|Армавир,Marz,Province,NA,AM.AV,AM-AV,Armenia,NA
+127,ARM,Armenia,ARM.4_1,Erevan,Yerevan,Երևան|Ереван,Kaghak,City,NA,AM.ER,AM-ER,Armenia,NA
+128,ARM,Armenia,ARM.5_1,Gegharkunik,Gelark'unik',Գեղարքունիք|Гегаркуник,Marz,Province,NA,AM.GR,NA,Armenia,NA
+129,ARM,Armenia,ARM.6_1,Kotayk,Kotaik|Kotayk',Կոտայք|Котайк,Marz,Province,NA,AM.KT,NA,Armenia,NA
+130,ARM,Armenia,ARM.7_1,Lori,Loṙi,Լոռի|Лори,Marz,Province,NA,AM.LO,AM-LO,Armenia,NA
+131,ARM,Armenia,ARM.8_1,Shirak,Širak,Շիրակ|Ширак,Marz,Province,NA,AM.SH,NA,Armenia,NA
+132,ARM,Armenia,ARM.9_1,Syunik,Syunik',Սյունիք|Сюник,Marz,Province,NA,AM.SU,NA,Armenia,NA
+133,ARM,Armenia,ARM.10_1,Tavush,Tavuš,Տավուշ|Тавуш,Marz,Province,NA,AM.TV,NA,Armenia,NA
+134,ARM,Armenia,ARM.11_1,Vayots Dzor,Vayoc'Jor,Վայոց Ձոր|Вайоц Дзор,Marz,Province,NA,AM.VD,NA,Armenia,NA
+135,ASM,American Samoa,ASM.1_1,Eastern,NA,NA,District,District,NA,AS.ET,NA,American Samoa,NA
+136,ASM,American Samoa,ASM.2_1,Manu'a,NA,NA,District,District,NA,AS.MA,NA,American Samoa,NA
+137,ASM,American Samoa,ASM.3_1,Unorganized,NA,NA,District,District,NA,AS.UU,NA,Swains Is.,NA
+138,ASM,American Samoa,ASM.4_1,Western,NA,NA,District,District,NA,AS.WT,NA,American Samoa,NA
+139,ATF,French Southern Territories,ATF.1_1,Îles Crozet,Crozet Islands,NA,District,District,NA,TF.CR,NA,Crozet Is.,NA
+140,ATF,French Southern Territories,ATF.2_1,Îles Éparses,Glorioso Islands,NA,District,District,NA,NA,NA,Mozambique Channel Is.,NA
+141,ATF,French Southern Territories,ATF.3_1,Îles Saint Paul et Amsterdam,St. Paul and Amsterdam islands,NA,District,District,NA,TF.AS,NA,Amsterdam-St. Paul Is.,NA
+142,ATF,French Southern Territories,ATF.4_1,Kerguelen,NA,NA,District,District,NA,TF.KG,NA,Kerguelen,NA
+151,AUS,Australia,AUS.1_1,Ashmore and Cartier Islands,NA,NA,Territory,Territory,12,AU.AS,NA,Ashmore-Cartier Is.,NA
+152,AUS,Australia,AUS.2_1,Australian Capital Territory,NA,NA,Territory,Territory,8,AU.AC,AU-ACT,Australian Capital Territory,NA
+153,AUS,Australia,AUS.3_1,Coral Sea Islands Territory,NA,NA,Territory,Territory,11,AU.CR,NA,Coral Sea Is. Territory,NA
+154,AUS,Australia,AUS.4_1,Jervis Bay Territory,NA,NA,Territory,Territory,10,AU.JB,NA,New South Wales,NA
+155,AUS,Australia,AUS.5_1,New South Wales,NA,NA,State,State,1,AU.NS,AU-NSW,New South Wales,1
+156,AUS,Australia,AUS.6_1,Northern Territory,NA,NA,Territory,Territory,7,AU.NT,AU-NT,Northern Territory,NA
+157,AUS,Australia,AUS.7_1,Queensland,NA,NA,State,State,3,AU.QL,AU-QLD,Queensland,NA
+158,AUS,Australia,AUS.8_1,South Australia,NA,NA,State,State,4,AU.SA,AU-SA,South Australia,NA
+159,AUS,Australia,AUS.9_1,Tasmania,NA,NA,State,State,6,AU.TS,AU-TAS,Tasmania,1
+160,AUS,Australia,AUS.10_1,Victoria,NA,NA,State,State,2,AU.VI,AU-VIC,Victoria,NA
+161,AUS,Australia,AUS.11_1,Western Australia,NA,NA,State,State,5,AU.WA,AU-WA,Western Australia,NA
+171,AZE,Azerbaijan,AZE.1_1,Absheron,NA,NA,İqtisadi Rayonu,Region,NA,NA,NA,Azerbaijan,NA
+172,AZE,Azerbaijan,AZE.2_1,Aran,NA,NA,İqtisadi Rayonu,Region,NA,NA,NA,Azerbaijan,NA
+173,AZE,Azerbaijan,AZE.3_1,Daglig-Shirvan,NA,NA,İqtisadi Rayonu,Region,NA,NA,NA,Azerbaijan,NA
+174,AZE,Azerbaijan,AZE.4_1,Ganja-Qazakh,NA,NA,İqtisadi Rayonu,Region,NA,NA,NA,Azerbaijan,NA
+175,AZE,Azerbaijan,AZE.5_1,Kalbajar-Lachin,NA,NA,İqtisadi Rayonu,Region,NA,NA,NA,Azerbaijan,NA
+176,AZE,Azerbaijan,AZE.6_1,Lankaran,NA,NA,İqtisadi Rayonu,Region,NA,NA,AZ-LA,Azerbaijan,NA
+177,AZE,Azerbaijan,AZE.7_1,Nakhchivan,NA,NA,İqtisadi Rayonu,Region,NA,NA,NA,Nakhichevan,NA
+178,AZE,Azerbaijan,AZE.8_1,Quba-Khachmaz,NA,NA,İqtisadi Rayonu,Region,NA,NA,NA,Azerbaijan,NA
+179,AZE,Azerbaijan,AZE.9_1,Shaki-Zaqatala,NA,NA,İqtisadi Rayonu,Region,NA,NA,NA,Azerbaijan,NA
+180,AZE,Azerbaijan,AZE.10_1,Yukhari-Karabakh,NA,NA,İqtisadi Rayonu,Region,NA,NA,NA,Azerbaijan,NA
+213,BES,"Bonaire, Sint Eustatius and Saba",BES.1_1,Bonaire,NA,NA,Caribisch openbaar lichaam,Municipality,NA,NA,BQ-BO,Bonaire,NA
+214,BES,"Bonaire, Sint Eustatius and Saba",BES.2_1,Saba,NA,NA,Caribisch openbaar lichaam,Municipality,NA,NA,BQ-SA,Saba,NA
+215,BES,"Bonaire, Sint Eustatius and Saba",BES.3_1,Sint Eustatius,NA,NA,Caribisch openbaar lichaam,Municipality,NA,NA,BQ-SE,Sint Eustatius,NA
+339,BRA,Brazil,BRA.1_1,Acre,NA,NA,Estado,State,NA,BR.AC,BR-AC,Acre,NA
+340,BRA,Brazil,BRA.2_1,Alagoas,NA,NA,Estado,State,NA,BR.AL,BR-AL,Alagoas,NA
+341,BRA,Brazil,BRA.3_1,Amapá,NA,NA,Estado,State,NA,BR.AP,NA,Amap�,NA
+342,BRA,Brazil,BRA.4_1,Amazonas,Amazone,NA,Estado,State,NA,BR.AM,BR-AM,Amazonas,NA
+343,BRA,Brazil,BRA.5_1,Bahia,Ba¡a,NA,Estado,State,NA,BR.BA,BR-BA,Bahia,NA
+344,BRA,Brazil,BRA.6_1,Ceará,NA,NA,Estado,State,NA,BR.CE,NA,Cear�,NA
+345,BRA,Brazil,BRA.7_1,Distrito Federal,NA,NA,Distrito Federal,Federal District,NA,BR.DF,BR-DF,Bras�lia Distrito Federal,NA
+346,BRA,Brazil,BRA.8_1,Espírito Santo,Espiritu Santo,NA,Estado,State,NA,BR.ES,NA,Esp�rito Santo,NA
+347,BRA,Brazil,BRA.9_1,Goiás,Goiáz|Goyáz,NA,Estado,State,NA,BR.GO,NA,Goi�s,1
+348,BRA,Brazil,BRA.10_1,Maranhão,São Luíz de Maranhão,NA,Estado,State,NA,BR.MA,NA,Maranh�o,NA
+349,BRA,Brazil,BRA.12_1,Mato Grosso,Matto Grosso,NA,Estado,State,NA,BR.MT,BR-MT,Mato Grosso,NA
+350,BRA,Brazil,BRA.11_1,Mato Grosso do Sul,NA,NA,Estado,State,NA,BR.MS,BR-MS,Mato Grosso do Sul,NA
+351,BRA,Brazil,BRA.13_1,Minas Gerais,Minas|Minas Geraes,NA,Estado,State,NA,BR.MG,BR-MG,Minas Gerais,NA
+352,BRA,Brazil,BRA.14_1,Pará,NA,NA,Estado,State,NA,BR.PA,NA,Par�,NA
+353,BRA,Brazil,BRA.15_1,Paraíba,Parahyba,NA,Estado,State,NA,BR.PB,NA,Para�ba,NA
+354,BRA,Brazil,BRA.16_1,Paraná,NA,NA,Estado,State,NA,BR.PR,NA,Paran�,NA
+355,BRA,Brazil,BRA.17_1,Pernambuco,Pernambouc,NA,Estado,State,NA,BR.PE,BR-PE,Pernambuco,1
+356,BRA,Brazil,BRA.18_1,Piauí,Piauhy,NA,Estado,State,NA,BR.PI,NA,Piau�,NA
+357,BRA,Brazil,BRA.19_1,Rio de Janeiro,NA,NA,Estado,State,NA,BR.RJ,BR-RJ,Rio de Janeiro,NA
+358,BRA,Brazil,BRA.20_1,Rio Grande do Norte,NA,NA,Estado,State,NA,BR.RN,BR-RN,Rio Grande do Norte,NA
+359,BRA,Brazil,BRA.21_1,Rio Grande do Sul,NA,NA,Estado,State,NA,BR.RS,BR-RS,Rio Grande do Sul,NA
+360,BRA,Brazil,BRA.22_1,Rondônia,Guaporé,NA,Estado,State,NA,BR.RO,NA,Rond�nia,NA
+361,BRA,Brazil,BRA.23_1,Roraima,Rio Branco,NA,Estado,State,NA,BR.RR,BR-RR,Roraima,NA
+362,BRA,Brazil,BRA.24_1,Santa Catarina,Santa Catharina,NA,Estado,State,NA,BR.SC,BR-SC,Santa Catarina,NA
+363,BRA,Brazil,BRA.25_1,São Paulo,NA,NA,Estado,State,NA,BR.SP,NA,S�o Paulo,NA
+364,BRA,Brazil,BRA.26_1,Sergipe,NA,NA,Estado,State,NA,BR.SE,BR-SE,Sergipe,NA
+365,BRA,Brazil,BRA.27_1,Tocantins,NA,NA,Estado,State,NA,BR.TO,BR-TO,Tocantins,NA
+434,CAN,Canada,CAN.1_1,Alberta,NA,NA,Province,Province,48,CA.AB,CA-AB,Alberta,NA
+435,CAN,Canada,CAN.2_1,British Columbia,Colombie britannique|New Caledon,NA,Province,Province,59,CA.BC,CA-BC,British Columbia,NA
+436,CAN,Canada,CAN.3_1,Manitoba,NA,NA,Province,Province,46,CA.MB,CA-MB,Manitoba,NA
+437,CAN,Canada,CAN.4_1,New Brunswick,Nouveau-Brunswick|Acadia,NA,Province,Province,13,CA.NB,CA-NB,New Brunswick,NA
+438,CAN,Canada,CAN.5_1,Newfoundland and Labrador,Newfoundland|Terre-Neuve|Terre-N,NA,Province,Province,10,CA.NF,CA-NL,Newfoundland and Labrador,1
+439,CAN,Canada,CAN.6_1,Northwest Territories,Territoires du Nord-Ouest,NA,Territoire,Territory,61,CA.NT,CA-NT,Northwest Territories,NA
+440,CAN,Canada,CAN.7_1,Nova Scotia,Acadia|Nouvelle-Écosse,NA,Province,Province,12,CA.NS,CA-NS,Nova Scotia,NA
+441,CAN,Canada,CAN.8_1,Nunavut,NA,NA,Territoire,Territory,62,CA.NU,CA-NU,Nunavut,NA
+442,CAN,Canada,CAN.9_1,Ontario,Upper Canada,NA,Province,Province,35,CA.ON,CA-ON,Ontario,NA
+443,CAN,Canada,CAN.10_1,Prince Edward Island,Île de Saint-Jean|Île du Prince-,NA,Province,Province,11,CA.PE,CA-PE,Prince Edward I.,NA
+444,CAN,Canada,CAN.11_1,Québec,Lower Canada,NA,Province,Province,24,CA.QC,NA,Qu�bec,NA
+445,CAN,Canada,CAN.12_1,Saskatchewan,NA,NA,Province,Province,47,CA.SK,CA-SK,Saskatchewan,NA
+446,CAN,Canada,CAN.13_1,Yukon,Yukon Territory|Territoire du Yu,NA,Territoire,Territory,60,CA.YT,CA-YT,Yukon,NA
+473,CHL,Chile,CHL.2_1,Antofagasta,NA,NA,Región,Region,II,CL.AN,CL-AN,Antofagasta,NA
+474,CHL,Chile,CHL.3_1,Araucanía,Araucanie|La Araucanía,NA,Región,Region,IX,CL.AR,NA,La Araucania,NA
+475,CHL,Chile,CHL.4_1,Arica y Parinacota,NA,NA,Región,Region,XV,CL.AP,CL-AP,Arica y Parinacota (Absent_SIS),NA
+476,CHL,Chile,CHL.5_1,Atacama,NA,NA,Región,Region,III,CL.AT,CL-AT,Atacama,NA
+477,CHL,Chile,CHL.1_1,Aysén del General Ibañez del Cam,Aisén|Aysén|Aisén del General Ca,NA,Región,Region,XI,CL.AI,NA,Ais�n,NA
+478,CHL,Chile,CHL.6_1,Bío-Bío,Bíobío,NA,Región,Region,VIII,CL.BI,NA,Biob��o,NA
+479,CHL,Chile,CHL.7_1,Coquimbo,NA,NA,Región,Region,IV,CL.CO,CL-CO,Coquimbo,NA
+480,CHL,Chile,CHL.8_1,Libertador General Bernardo O'Hi,Libertador,NA,Región,Region,VI,CL.LI,NA,O'Higgins,NA
+481,CHL,Chile,CHL.9_1,Los Lagos,Os Lagos,NA,Región,Region,X,CL.LL,CL-LL,Los Lagos,NA
+482,CHL,Chile,CHL.10_1,Los Ríos,NA,NA,Región,Region,XIV,CL.LR,NA,Los Rios (Absent_SIS),NA
+483,CHL,Chile,CHL.11_1,Magallanes y Antártica Chilena,Magalhães|Magellan et Antarctiqu,NA,Región,Region,XII,CL.MA,NA,Magallanes,NA
+484,CHL,Chile,CHL.12_1,Maule,NA,NA,Región,Region,VII,CL.ML,CL-ML,Maule,NA
+485,CHL,Chile,CHL.13_1,Ñuble,NA,NA,Región,Region,XVI,CL.NB,NA,Nuble (Absent_SIS),NA
+486,CHL,Chile,CHL.14_1,Santiago Metropolitan,Región Metropolitana|Région Metr,NA,Región Metropolitana,Metropolian Region,RM,CL.RM,NA,Santiago,NA
+487,CHL,Chile,CHL.15_1,Tarapacá,NA,NA,Región,Region,I,CL.TA,NA,Tarapac�,NA
+488,CHL,Chile,CHL.16_1,Valparaíso,Aconcagua,NA,Región,Region,V,CL.VS,NA,Valpara�so,1
+489,CHN,China,CHN.1_1,Anhui,Ānhuī,安徽|安徽,Shěng,Province,NA,CN.AH,CN-AH,Anhui,NA
+490,CHN,China,CHN.2_1,Beijing,Běijīng,北京|北京,Zhíxiáshì,Municipality,NA,CN.BJ,CN-BJ,Beijing,NA
+491,CHN,China,CHN.3_1,Chongqing,Chóngqìng,重慶|重庆,Zhíxiáshì,Municipality,NA,CN.CQ,CN-CQ,Chongqing,NA
+492,CHN,China,CHN.4_1,Fujian,Fújiàn,福建,Shěng,Province,NA,CN.FJ,CN-FJ,Fujian,NA
+493,CHN,China,CHN.5_1,Gansu,Gānsù,甘肅|甘肃,Shěng,Province,NA,CN.GS,CN-GS,Gansu,NA
+494,CHN,China,CHN.6_1,Guangdong,Guǎngdōng,廣東|广东,Shěng,Province,NA,CN.GD,CN-GD,Guangdong,NA
+495,CHN,China,CHN.7_1,Guangxi,Guǎngxī Zhuàngzú,廣西壯族自治區|广西壮族自治区,Zìzhìqu,Autonomous Region,NA,CN.GX,NA,Guangxi,NA
+496,CHN,China,CHN.8_1,Guizhou,Gùizhōu,貴州|贵州,Shěng,Province,NA,CN.GZ,CN-GZ,Guizhou,NA
+497,CHN,China,CHN.9_1,Hainan,Hǎinán,海南,Shěng,Province,NA,CN.HA,CN-HI,Hainan,NA
+498,CHN,China,CHN.10_1,Hebei,Héběi,河北,Shěng,Province,NA,CN.HB,CN-HE,Hebei,NA
+499,CHN,China,CHN.11_1,Heilongjiang,Hēilóngjiāng,黑龙江省|黑龍江省,Shěng,Province,NA,CN.HL,CN-HL,Heilongjiang,NA
+500,CHN,China,CHN.12_1,Henan,Hénán,河南,Shěng,Province,NA,CN.HE,CN-HA,Henan,NA
+501,CHN,China,CHN.HKG,Hong Kong,NA,NA,Special Administrative Region,Special Administrative Region,NA,HK,NA,SHOULD BE INDEPENDENT,1
+502,CHN,China,CHN.13_1,Hubei,Húběi,湖北,Shěng,Province,NA,CN.HU,CN-HB,Hubei,NA
+503,CHN,China,CHN.14_1,Hunan,Húnán,湖南,Shěng,Province,NA,CN.HN,CN-HN,Hunan,NA
+504,CHN,China,CHN.15_1,Jiangsu,Jiāngsū,江蘇|江苏,Shěng,Province,NA,CN.JS,CN-JS,Jiangsu,NA
+505,CHN,China,CHN.16_1,Jiangxi,Jiāngxī,江西,Shěng,Province,NA,CN.JX,CN-JX,Jiangxi,NA
+506,CHN,China,CHN.17_1,Jilin,Jílín,吉林,Shěng,Province,NA,CN.JL,CN-JL,Jilin,NA
+507,CHN,China,CHN.18_1,Liaoning,Liáoníng,遼寧|辽宁,Shěng,Province,NA,CN.LN,CN-LN,Liaoning,NA
+508,CHN,China,CHN.MAC,Macau,NA,NA,Special Administrative Region,Special Administrative Region,NA,MO,NA,SHOULD BE INDEPENDENT,1
+509,CHN,China,CHN.19_1,Nei Mongol,Inner Mongol|Nèiměnggǔ,內蒙古自治區|内蒙古自治区,Zìzhìqu,Autonomous Region,NA,CN.NM,CN-NM,Nei Mongol,NA
+510,CHN,China,CHN.20_1,Ningxia Hui,Níngxià Húizú,寧夏回族自治區|宁夏回族自治区,Zìzhìqu,Autonomous Region,NA,CN.NX,NA,Ningxia,NA
+511,CHN,China,CHN.21_1,Qinghai,Qīnghǎi,青海,Shěng,Province,NA,CN.QH,CN-QH,Qinghai,NA
+512,CHN,China,CHN.22_1,Shaanxi,Shǎnxī,陝西|陕西,Shěng,Province,NA,CN.SA,CN-SN,Shaanxi,NA
+513,CHN,China,CHN.23_1,Shandong,Shāndōng,山東|山东,Shěng,Province,NA,CN.SD,CN-SD,Shandong,NA
+514,CHN,China,CHN.24_1,Shanghai,Shànghǎi,上海|上海,Zhíxiáshì,Municipality,NA,CN.SH,CN-SH,Shanghai,NA
+515,CHN,China,CHN.25_1,Shanxi,Shānxī,山西,Shěng,Province,NA,CN.SX,CN-SX,Shanxi,NA
+516,CHN,China,CHN.26_1,Sichuan,Sìchuān,四川,Shěng,Province,NA,CN.SC,CN-SC,Sichuan,NA
+517,CHN,China,CHN.27_1,Tianjin,Tiānjīn,天津|天津,Zhíxiáshì,Municipality,NA,CN.TJ,CN-TJ,Tianjin,NA
+518,CHN,China,CHN.28_1,Xinjiang Uygur,Xīnjiāng Wéiwúěr,新疆維吾爾自治區|新疆维吾尔自治区,Zìzhìqu,Autonomous Region,NA,CN.XJ,CN-XJ,Xinjiang,NA
+519,Z02,China,Z02.28_1,Xinjiang Uygur,Xīnjiāng Wéiwúěr,新疆維吾爾自治區|新疆维吾尔自治区,Zìzhìqu,Autonomous Region,NA,CN.XJ,NA,Xinjiang,NA
+520,Z03,China,Z03.28_1,Xinjiang Uygur,Xīnjiāng Wéiwúěr,新疆維吾爾自治區|新疆维吾尔自治区,Zìzhìqu,Autonomous Region,NA,CN.XJ,NA,Xinjiang,NA
+521,CHN,China,CHN.29_1,Xizang,Tibet|Xīzàng,西藏自治區|西藏自治区,Zìzhìqu,Autonomous Region,NA,CN.XZ,CN-XZ,Tibet [or Xizang],NA
+522,Z03,China,Z03.29_1,Xizang,Tibet|Xīzàng,西藏自治區|西藏自治区,Zìzhìqu,Autonomous Region,NA,CN.XZ,NA,Tibet [or Xizang],NA
+523,Z08,China,Z08.29_1,Xizang,Tibet|Xīzàng,西藏自治區|西藏自治区,Zìzhìqu,Autonomous Region,NA,CN.XZ,NA,Tibet [or Xizang],NA
+524,CHN,China,CHN.30_1,Yunnan,Yúnnán,雲南|云南,Shěng,Province,NA,CN.YN,CN-YN,Yunnan,NA
+525,CHN,China,CHN.31_1,Zhejiang,Zhèjiāng,浙江,Shěng,Province,NA,CN.ZJ,CN-ZJ,Zhejiang,NA
+588,COK,Cook Islands,COK.1_1,Aitutaki,NA,NA,Island Council,Island Council,NA,NA,NA,Cook Is.,NA
+589,COK,Cook Islands,COK.2_1,Atiu,NA,NA,Island Council,Island Council,NA,NA,NA,Cook Is.,NA
+590,COK,Cook Islands,COK.3_1,Mangaia,NA,NA,Island Council,Island Council,NA,NA,NA,Cook Is.,NA
+591,COK,Cook Islands,COK.4_1,Manihiki,NA,NA,Island Council,Island Council,NA,NA,NA,Manihiki Is.,NA
+592,COK,Cook Islands,COK.5_1,Mauke,NA,NA,Island Council,Island Council,NA,NA,NA,Cook Is.,NA
+593,COK,Cook Islands,COK.6_1,Mitiaro,NA,NA,Island Council,Island Council,NA,NA,NA,Cook Is.,NA
+594,COK,Cook Islands,COK.7_1,Palmerston,NA,NA,Island Council,Island Council,NA,NA,NA,Cook Is.,NA
+595,COK,Cook Islands,COK.8_1,Penhryn,NA,NA,Island Council,Island Council,NA,NA,NA,Cook Is.,NA
+596,COK,Cook Islands,COK.9_1,Pukapuka,NA,NA,Island Council,Island Council,NA,NA,NA,Cook Is.,NA
+597,COK,Cook Islands,COK.10_1,Rakahanga,NA,NA,Island Council,Island Council,NA,NA,NA,Cook Is.,NA
+598,COK,Cook Islands,COK.11_1,Rarotonga,NA,NA,Island Council,Island Council,NA,NA,NA,Cook Is.,NA
+599,COL,Colombia,COL.1_2,Amazonas,NA,NA,Comisaría,Commissiary,NA,CO.AM,CO-AMA,Colombia (mainland),NA
+600,COL,Colombia,COL.2_2,Antioquia,NA,NA,Departamento,Department,NA,CO.AN,CO-ANT,Colombia (mainland),NA
+601,COL,Colombia,COL.3_2,Arauca,NA,NA,Intendencia,Intendancy,NA,CO.AR,CO-ARA,Colombia (mainland),NA
+602,COL,Colombia,COL.4_2,Atlántico,NA,NA,Departamento,Department,NA,CO.AT,NA,Colombia (mainland),NA
+603,COL,Colombia,COL.5_2,Bogotá D.C.,Distrito Capital de Bogotá,NA,Distrito Capital,Capital District,NA,CO.DC,NA,Colombia (mainland),NA
+604,COL,Colombia,COL.6_2,Bolívar,NA,NA,Departamento,Department,NA,CO.BL,NA,Colombia (mainland),NA
+605,COL,Colombia,COL.7_2,Boyacá,NA,NA,Departamento,Department,NA,CO.BY,NA,Colombia (mainland),NA
+606,COL,Colombia,COL.8_2,Caldas,NA,NA,Departamento,Department,NA,CO.CL,CO-CAL,Colombia (mainland),NA
+607,COL,Colombia,COL.9_2,Caquetá,NA,NA,Intendencia,Intendancy,NA,CO.CQ,NA,Colombia (mainland),NA
+608,COL,Colombia,COL.10_2,Casanare,NA,NA,Intendencia,Intendancy,NA,CO.CS,CO-CAS,Colombia (mainland),NA
+609,COL,Colombia,COL.11_2,Cauca,NA,NA,Departamento,Department,NA,CO.CA,CO-CAU,Colombia (mainland),NA
+610,COL,Colombia,COL.12_2,Cesar,El Cesar,NA,Departamento,Department,NA,CO.CE,CO-CES,Colombia (mainland),NA
+611,COL,Colombia,COL.13_2,Chocó,NA,NA,Departamento,Department,NA,CO.CH,NA,Colombia (mainland),NA
+612,COL,Colombia,COL.14_2,Córdoba,NA,NA,Departamento,Department,NA,CO.CO,NA,Colombia (mainland),NA
+613,COL,Colombia,COL.15_2,Cundinamarca,NA,NA,Departamento,Department,NA,CO.CU,CO-CUN,Colombia (mainland),NA
+614,COL,Colombia,COL.16_2,Guainía,Guania,NA,Comisaría,Commissiary,NA,CO.GN,NA,Colombia (mainland),NA
+615,COL,Colombia,COL.17_2,Guaviare,NA,NA,Comisaría,Commissiary,NA,CO.GV,CO-GUV,Colombia (mainland),NA
+616,COL,Colombia,COL.18_2,Huila,NA,NA,Departamento,Department,NA,CO.HU,CO-HUI,Colombia (mainland),NA
+617,COL,Colombia,COL.19_2,La Guajira,Guajira|Goagira|La Goajira,NA,Departamento,Department,NA,CO.LG,CO-LAG,Colombia (mainland),NA
+618,COL,Colombia,COL.20_2,Magdalena,La Magdalena,NA,Departamento,Department,NA,CO.MA,CO-MAG,Colombia (mainland),NA
+619,COL,Colombia,COL.21_2,Meta,NA,NA,Departamento,Department,NA,CO.ME,CO-MET,Colombia (mainland),NA
+620,COL,Colombia,COL.22_2,Nariño,NA,NA,Departamento,Department,NA,CO.NA,NA,Colombia (mainland),NA
+621,COL,Colombia,COL.23_2,Norte de Santander,Santander del Norte,NA,Departamento,Department,NA,CO.NS,CO-NSA,Colombia (mainland),NA
+622,COL,Colombia,COL.24_2,Putumayo,NA,NA,Intendencia,Intendancy,NA,CO.PU,CO-PUT,Colombia (mainland),NA
+623,COL,Colombia,COL.25_2,Quindío,NA,NA,Departamento,Department,NA,CO.QD,NA,Colombia (mainland),NA
+624,COL,Colombia,COL.26_2,Risaralda,NA,NA,Departamento,Department,NA,CO.RI,CO-RIS,Colombia (mainland),NA
+625,COL,Colombia,COL.27_1,San Andrés y Providencia,Saint Andrew and Providence,NA,Departamento,Department,NA,CO.SA,NA,Colombian Caribbean Is.,NA
+626,COL,Colombia,COL.28_2,Santander,NA,NA,Departamento,Department,NA,CO.ST,CO-SAN,Colombia (mainland),NA
+627,COL,Colombia,COL.29_2,Sucre,NA,NA,Departamento,Department,NA,CO.SU,CO-SUC,Colombia (mainland),NA
+628,COL,Colombia,COL.30_2,Tolima,NA,NA,Departamento,Department,NA,CO.TO,CO-TOL,Colombia (mainland),NA
+629,COL,Colombia,COL.31_2,Valle del Cauca,Valle,NA,Departamento,Department,NA,CO.VC,CO-VAC,Colombia (mainland),NA
+630,COL,Colombia,COL.32_2,Vaupés,NA,NA,Comisaría,Commissiary,NA,CO.VP,NA,Colombia (mainland),NA
+631,COL,Colombia,COL.33_2,Vichada,NA,NA,Comisaría,Commissiary,NA,CO.VD,CO-VID,Colombia (mainland),NA
+657,CRI,Costa Rica,CRI.1_1,Alajuela,NA,NA,Provincia,Province,2,CR.AL,CR-A,Costa Rica (mainland),NA
+658,CRI,Costa Rica,CRI.2_1,Cartago,NA,NA,Provincia,Province,3,CR.CA,CR-C,Costa Rica (mainland),NA
+659,CRI,Costa Rica,CRI.3_1,Guanacaste,NA,NA,Provincia,Province,5,CR.GU,CR-G,Costa Rica (mainland),NA
+660,CRI,Costa Rica,CRI.4_1,Heredia,NA,NA,Provincia,Province,4,CR.HE,CR-H,Costa Rica (mainland),NA
+661,CRI,Costa Rica,CRI.5_1,Limón,Puerto Limón,NA,Provincia,Province,7,CR.LI,NA,Costa Rica (mainland),NA
+662,CRI,Costa Rica,CRI.6_1,Puntarenas,NA,NA,Provincia,Province,6,CR.PU,CR-P,Costa Rica (mainland),1
+663,CRI,Costa Rica,CRI.7_1,San José,NA,NA,Provincia,Province,1,CR.SJ,NA,Costa Rica (mainland),NA
+822,ECU,Ecuador,ECU.1_1,Azuay,NA,NA,Provincia,Province,1,EC.AZ,EC-A,Ecuador (mainland),NA
+823,ECU,Ecuador,ECU.2_1,Bolivar,NA,NA,Provincia,Province,2,EC.BO,EC-B,Ecuador (mainland),NA
+824,ECU,Ecuador,ECU.3_1,Cañar,NA,NA,Provincia,Province,3,EC.CN,NA,Ecuador (mainland),NA
+825,ECU,Ecuador,ECU.4_1,Carchi,NA,NA,Provincia,Province,4,EC.CR,EC-C,Ecuador (mainland),NA
+826,ECU,Ecuador,ECU.5_1,Chimborazo,NA,NA,Provincia,Province,6,EC.CB,EC-H,Ecuador (mainland),NA
+827,ECU,Ecuador,ECU.6_1,Cotopaxi,NA,NA,Provincia,Province,5,EC.CT,EC-X,Ecuador (mainland),NA
+828,ECU,Ecuador,ECU.7_1,El Oro,NA,NA,Provincia,Province,7,EC.EO,EC-O,Ecuador (mainland),NA
+829,ECU,Ecuador,ECU.8_1,Esmeraldas,NA,NA,Provincia,Province,8,EC.ES,EC-E,Ecuador (mainland),NA
+830,ECU,Ecuador,ECU.9_1,Galápagos,NA,NA,Provincia,Province,20,EC.GA,NA,Gal�pagos,NA
+831,ECU,Ecuador,ECU.10_1,Guayas,NA,NA,Provincia,Province,9,EC.GU,EC-G,Ecuador (mainland),NA
+832,ECU,Ecuador,ECU.11_1,Imbabura,NA,NA,Provincia,Province,10,EC.IM,EC-I,Ecuador (mainland),NA
+833,ECU,Ecuador,ECU.12_1,Loja,NA,NA,Provincia,Province,11,EC.LJ,EC-L,Ecuador (mainland),NA
+834,ECU,Ecuador,ECU.13_1,Los Rios,NA,NA,Provincia,Province,12,EC.LR,EC-R,Ecuador (mainland),NA
+835,ECU,Ecuador,ECU.14_1,Manabi,NA,NA,Provincia,Province,13,EC.MN,EC-M,Ecuador (mainland),NA
+836,ECU,Ecuador,ECU.15_1,Morona Santiago,NA,NA,Provincia,Province,14,EC.MS,EC-S,Ecuador (mainland),NA
+837,ECU,Ecuador,ECU.16_1,Napo,NA,NA,Provincia,Province,15,EC.NA,EC-N,Ecuador (mainland),NA
+838,ECU,Ecuador,ECU.17_1,Orellana,NA,NA,Provincia,Province,22,EC.OR,EC-D,Ecuador (mainland),NA
+839,ECU,Ecuador,ECU.18_1,Pastaza,NA,NA,Provincia,Province,16,EC.PA,EC-Y,Ecuador (mainland),NA
+840,ECU,Ecuador,ECU.19_1,Pichincha,NA,NA,Provincia,Province,17,EC.PI,EC-P,Ecuador (mainland),NA
+841,ECU,Ecuador,ECU.20_1,Santa Elena,NA,NA,Provincia,Province,24,EC.SE,EC-SE,Ecuador (mainland),NA
+842,ECU,Ecuador,ECU.21_1,Santo Domingo de los Tsachilas,NA,NA,Provincia,Province,23,EC.SD,EC-SD,Ecuador (mainland),NA
+843,ECU,Ecuador,ECU.22_1,Sucumbios,NA,NA,Provincia,Province,21,EC.SU,EC-U,Ecuador (mainland),NA
+844,ECU,Ecuador,ECU.23_1,Tungurahua,NA,NA,Provincia,Province,18,EC.TU,EC-T,Ecuador (mainland),NA
+845,ECU,Ecuador,ECU.24_1,Zamora Chinchipe,NA,NA,Provincia,Province,19,EC.ZC,EC-Z,Ecuador (mainland),NA
+846,EGY,Egypt,EGY.1_1,Ad Daqahliyah,Al Daqahliyah|Dacahlia|Dagahlia|,الدقهلية,Muhafazah,Governorate,NA,EG.DQ,EG-DK,Egypt (African part),NA
+847,EGY,Egypt,EGY.2_1,Al Bahr al Ahmar,Mar Rojo|Mar Vermelho|Mer Rouge|,محافظة البحر الأحمر,Muhafazah,Governorate,NA,EG.BA,EG-BA,Egypt (African part),NA
+848,EGY,Egypt,EGY.3_1,Al Buhayrah,Beheira|Behera|El Buhayra|Béhéra,البحيرة,Muhafazah,Governorate,NA,EG.BH,EG-BH,Egypt (African part),NA
+849,EGY,Egypt,EGY.4_1,Al Fayyum,El Faiyum|el Fayoum|Faium|Faiyūm,محافظة الفيوم,Muhafazah,Governorate,NA,EG.FY,EG-FYM,Egypt (African part),NA
+850,EGY,Egypt,EGY.5_1,Al Gharbiyah,al-Garbīyah|El Gharbiya|Garbia|G,محافظة الغربية,Muhafazah,Governorate,NA,EG.GH,EG-GH,Egypt (African part),NA
+851,EGY,Egypt,EGY.6_1,Al Iskandariyah,Alexandria|Alexandrie|El Iskanda,محافظة الإسكندرية,Muhafazah,Governorate,NA,EG.IK,EG-ALX,Egypt (African part),NA
+852,EGY,Egypt,EGY.7_1,Al Isma`iliyah,As Ismailiyah|Ismailia|Ismaïlia|,محافظة الإسماعيلية,Muhafazah,Governorate,NA,EG.IS,NA,Egypt (African part),NA
+853,EGY,Egypt,EGY.8_1,Al Jizah,El Giza|El Gīzah|Gizeh|Giza|Guiz,NA,Muhafazah,Governorate,NA,EG.JZ,EG-GZ,Egypt (African part),NA
+854,EGY,Egypt,EGY.9_1,Al Minufiyah,Menoufieh|Menufia|Menūfīya|Minūf,محافظة المنوفية,Muhafazah,Governorate,NA,EG.MF,EG-MNF,Egypt (African part),NA
+855,EGY,Egypt,EGY.10_1,Al Minya,Minia|Minieh|Menia|Minya,NA,Muhafazah,Governorate,NA,EG.MN,EG-MN,Egypt (African part),NA
+856,EGY,Egypt,EGY.11_1,Al Qahirah,Cairo|El Cairo|El Qahira|Le Cair,NA,Muhafazah,Governorate,NA,EG.QH,EG-C,Egypt (African part),NA
+857,EGY,Egypt,EGY.12_1,Al Qalyubiyah,Caliubia|Kalioubieh|Kalioubiya|Q,محافظة القليوبية,Muhafazah,Governorate,NA,EG.QL,EG-KB,Egypt (African part),NA
+858,EGY,Egypt,EGY.13_1,Al Uqsur,Luxor,NA,Muhafazah,Governorate,NA,EG.UQ,EG-LX,Egypt (African part),NA
+859,EGY,Egypt,EGY.14_1,Al Wadi al Jadid,Al Wadi/Al Jadid|El-Wadi El-Gidi,محافظة الوادي الجديد‎,Muhafazah,Governorate,NA,EG.WJ,EG-WAD,Egypt (African part),NA
+860,EGY,Egypt,EGY.15_1,As Suways,El Suweiz|Es Suweis|Suez,محافظة السويس,Muhafazah,Governorate,NA,EG.SW,EG-SUZ,Egypt (African part),NA
+861,EGY,Egypt,EGY.16_1,Ash Sharqiyah,Charkieh|Sharqia|Sharqīya|Sharqu,محافظة الشرقية‎,Muhafazah,Governorate,NA,EG.SQ,EG-SHR,Egypt (African part),NA
+862,EGY,Egypt,EGY.17_1,Aswan,Assouan|Assuã|Assuán|Syene,محافظة أسوان,Muhafazah,Governorate,NA,EG.AN,EG-ASN,Egypt (African part),NA
+863,EGY,Egypt,EGY.18_1,Asyut,Asyiut|Assiout|Assiut|Assyut|Asy,NA,Muhafazah,Governorate,NA,EG.AT,EG-AST,Egypt (African part),NA
+864,EGY,Egypt,EGY.19_1,Bani Suwayf,Beni Suwayf|Beni Souef|Beni Suef,محافظة بنى سويف,Muhafazah,Governorate,NA,EG.BN,EG-BNS,Egypt (African part),NA
+865,EGY,Egypt,EGY.20_1,Bur Sa`id,Bur Said|Canal|Port Said|Port-Sa,محافظة بورسعيد,Muhafazah,Governorate,NA,EG.BS,NA,Egypt (African part),NA
+866,EGY,Egypt,EGY.21_1,Dumyat,Damietta|Damiette|Dumiāt,NA,Muhafazah,Governorate,NA,EG.DT,EG-DT,Egypt (African part),NA
+867,EGY,Egypt,EGY.22_1,Janub Sina',Janub Sina|Sina al-Janubiyah|Sin,محافظة جنوب سيناء,Muhafazah,Governorate,NA,EG.JS,EG-JS,Sinai,NA
+868,EGY,Egypt,EGY.23_1,Kafr ash Shaykh,Kafr-El-Sheikh|Kafr ash Shaikh|K,محافظة كفر الشيخ,Muhafazah,Governorate,NA,EG.KS,EG-KFS,Egypt (African part),NA
+869,EGY,Egypt,EGY.24_1,Matrouh,Marsā Matrūh|Mersa Matruh|Wester,محافظة مطروح,Muhafazah,Governorate,NA,EG.MT,NA,Egypt (African part),NA
+870,EGY,Egypt,EGY.25_1,Qina,Kena|Qena|Quena,محافظة قنا,Muhafazah,Governorate,NA,EG.QN,EG-KN,Egypt (African part),NA
+871,EGY,Egypt,EGY.26_1,Shamal Sina',Shamal Sina|Nord Sinaï|North Sin,محافظة شمال سيناء,Muhafazah,Governorate,NA,EG.SS,EG-SIN,Sinai,NA
+872,EGY,Egypt,EGY.27_1,Suhaj,Girga|Girgeh|Sawhāj|Sohag|Suhag,NA,Muhafazah,Governorate,NA,EG.SJ,EG-SHG,Egypt (African part),NA
+883,ESP,Spain,ESP.1_1,Andalucía,Andalousie|Andaluc¡a|Andalusien|,NA,Comunidad Autónoma,Autonomous Community,1,ES.AN,NA,Spain (mainland),NA
+884,ESP,Spain,ESP.2_1,Aragón,Aragão|Aragó|Aragón|Aragona|Arag,NA,Comunidad Autónoma,Autonomous Community,15,ES.AR,NA,Spain (mainland),NA
+885,ESP,Spain,ESP.3_1,Cantabria,Cantàbria|Cantábria|Cantabrie|Ka,NA,Comunidad Autónoma,Autonomous Community,6,ES.CB,ES-CB,Spain (mainland),NA
+886,ESP,Spain,ESP.4_1,Castilla-La Mancha,Castela-La Mancha|Castela-Mancha,NA,Comunidad Autónoma,Autonomous Community,8,ES.CM,ES-CM,Spain (mainland),NA
+887,ESP,Spain,ESP.5_1,Castilla y León,Castile and Leon|Castela e Leão|,NA,Comunidad Autónoma,Autonomous Community,7,ES.CL,NA,Spain (mainland),NA
+888,ESP,Spain,ESP.6_1,Cataluña,Catalogna|Catalogne|Catalonia|Ca,NA,Comunidad Autónoma,Autonomous Community,9,ES.CT,NA,Spain (mainland),NA
+889,ESP,Spain,ESP.7_1,Ceuta y Melilla,NA,NA,Ciudad Autónoma,Autonomous City,19,ES.ML,NA,Spanish North African Territories,NA
+890,ESP,Spain,ESP.8_1,Comunidad de Madrid,Madrid|Communauté de Madrid| Com,NA,Comunidad Autónoma,Autonomous Community,NA,ES.MD,NA,Spain (mainland),NA
+891,ESP,Spain,ESP.9_1,Comunidad Foral de Navarra,Communauté forale de Navarre|Com,NA,Comunidad Autónoma,Autonomous Community,15,ES.NA,NA,Spain (mainland),NA
+892,ESP,Spain,ESP.10_1,Comunidad Valenciana,Valencia|Communauté de Valence|C,NA,Comunidad Autónoma,Autonomous Community,10,ES.VC,NA,Spain (mainland),NA
+893,ESP,Spain,ESP.11_1,Extremadura,Estremadura|Estrémadure,NA,Comunidad Autónoma,Autonomous Community,11,ES.EX,ES-EX,Spain (mainland),NA
+894,ESP,Spain,ESP.12_1,Galicia,Galice|Gal¡cia|Galicien|Galiza|G,NA,Comunidad Autónoma,Autonomous Community,12,ES.GA,ES-GA,Spain (mainland),NA
+895,ESP,Spain,ESP.13_1,Islas Baleares,Balearic Islands|Balearen|Balear,NA,Comunidad Autónoma,Autonomous Community,4,ES.PM,NA,Baleares,NA
+896,ESP,Spain,ESP.14_1,Islas Canarias,Canarias|Canary Islands|Canárias,NA,Comunidad Autónoma,Autonomous Community,5,ES.CN,NA,Canary Is.,NA
+897,ESP,Spain,ESP.15_1,La Rioja,Rioja,NA,Comunidad Autónoma,Autonomous Community,17,ES.LO,ES-RI,Spain (mainland),NA
+898,ESP,Spain,ESP.16_1,País Vasco,Basque Country|Baskenland|Basque,NA,Comunidad Autónoma,Autonomous Community,16,ES.PV,NA,Spain (mainland),NA
+899,ESP,Spain,ESP.17_1,Principado de Asturias,Astúrias|Asturie|Asturien|Asturi,NA,Comunidad Autónoma,Autonomous Community,3,ES.AS,NA,Spain (mainland),NA
+900,ESP,Spain,ESP.18_1,Región de Murcia,Murcia|Região de Múrcia|Regió de,NA,Comunidad Autónoma,Autonomous Community,14,ES.MU,NA,Spain (mainland),NA
+938,FRA,France,FRA.1_1,Auvergne-Rhône-Alpes,NA,NA,Région,Region,NA,FR.AR,NA,France (mainland),NA
+939,FRA,France,FRA.2_1,Bourgogne-Franche-Comté,NA,NA,Région,Region,NA,FR.BF,NA,France (mainland),NA
+940,FRA,France,FRA.3_1,Bretagne,NA,NA,Région,Region,NA,FR.BT,FR-BRE,France (mainland),NA
+941,FRA,France,FRA.4_1,Centre-Val de Loire,NA,NA,Région,Region,NA,FR.CN,FR-CVL,France (mainland),NA
+942,FRA,France,FRA.5_1,Corse,Corsica,NA,Région,Region,NA,FR.CE,FR-20R,Corsica,NA
+943,FRA,France,FRA.6_1,Grand Est,NA,NA,Région,Region,NA,FR.AO,NA,France (mainland),NA
+944,FRA,France,FRA.7_1,Hauts-de-France,NA,NA,Région,Region,NA,FR.NC,FR-HDF,France (mainland),NA
+945,FRA,France,FRA.8_1,Île-de-France,NA,NA,Région,Region,NA,FR.IF,NA,France (mainland),NA
+946,FRA,France,FRA.9_1,Normandie,NA,NA,Région,Region,NA,FR.ND,FR-NOR,France (mainland),NA
+947,FRA,France,FRA.10_1,Nouvelle-Aquitaine,NA,NA,Région,Region,NA,FR.AC,FR-NAQ,France (mainland),NA
+948,FRA,France,FRA.11_1,Occitanie,NA,NA,Région,Region,NA,FR.LP,FR-OCC,France (mainland),NA
+949,FRA,France,FRA.12_1,Pays de la Loire,NA,NA,Région,Region,NA,FR.PL,NA,France (mainland),NA
+950,FRA,France,FRA.13_1,Provence-Alpes-Côte d'Azur,NA,NA,Région,Region,NA,FR.PR,NA,France (mainland),NA
+970,GBR,United Kingdom,GBR.2_1,Northern Ireland,Ulster,NA,Constituent Country,Constituent Country,NA,NA,GB-NIR,Northern Ireland,NA
+971,GBR,United Kingdom,GBR.3_1,Scotland,Alba,NA,Constituent Country,Constituent Country,NA,NA,GB-SCT,Great Britain,NA
+972,GBR,United Kingdom,GBR.4_1,Wales,Cymru,NA,Constituent Country,Constituent Country,NA,NA,GB-WLS,Great Britain,NA
+973,GBR,United Kingdom,GBR.1_1,NA,NA,NA,Constituent Country,Constituent Country,NA,NA,NA,Great Britain,NA
+975,GEO,Georgia,GEO.1_1,Abkhazia,Sokhumi,NA,Avtonomiuri Respublika,Autonomous Republic,NA,GE.AB,GE-AB,Abkhaziya,NA
+976,GEO,Georgia,GEO.2_1,Ajaria,Batumi,NA,Avtonomiuri Respublika,Autonomous Republic,NA,GE.AJ,GE-AJ,Adzhariya,NA
+977,GEO,Georgia,GEO.3_1,Guria,Ozurgeti,NA,Region,Region,NA,GE.GU,GE-GU,Gruziya,NA
+978,GEO,Georgia,GEO.4_1,Imereti,Kutaisi,NA,Region,Region,NA,GE.IM,GE-IM,Gruziya,NA
+979,GEO,Georgia,GEO.5_1,Kakheti,Telavi,NA,Region,Region,NA,GE.KA,NA,Gruziya,NA
+980,GEO,Georgia,GEO.6_1,Kvemo Kartli,Rustavi,NA,Region,Region,NA,GE.KK,GE-KK,Gruziya,NA
+981,GEO,Georgia,GEO.7_1,Mtskheta-Mtianeti,Mtskheta,NA,Region,Region,NA,GE.MM,GE-MM,Gruziya,NA
+982,GEO,Georgia,GEO.8_1,Racha-Lechkhumi-Kvemo Svaneti,Ambrolauri,NA,Region,Region,NA,GE.RK,NA,Gruziya,NA
+983,GEO,Georgia,GEO.9_1,Samegrelo-Zemo Svaneti,Zugdidi,NA,Region,Region,NA,GE.SZ,GE-SZ,Gruziya,NA
+984,GEO,Georgia,GEO.10_1,Samtskhe-Javakheti,Akhaltsikhe,NA,Region,Region,NA,GE.SJ,GE-SJ,Gruziya,NA
+985,GEO,Georgia,GEO.11_1,Shida Kartli,Gori,NA,Region,Region,NA,GE.SD,GE-SK,Gruziya,NA
+986,GEO,Georgia,GEO.12_1,Tbilisi,NA,NA,K'alak'i,Independent City,NA,GE.TB,GE-TB,Gruziya,NA
+1040,GNQ,Equatorial Guinea,GNQ.1_1,Annobón,NA,NA,Provincia,Province,NA,GQ.AN,NA,Annob�n,NA
+1041,GNQ,Equatorial Guinea,GNQ.2_1,Bioko Norte,NA,NA,Provincia,Province,NA,GQ.BN,GQ-BN,Bioko,NA
+1042,GNQ,Equatorial Guinea,GNQ.3_1,Bioko Sur,NA,NA,Provincia,Province,NA,GQ.BS,NA,Bioko,NA
+1043,GNQ,Equatorial Guinea,GNQ.4_1,Centro Sur,NA,NA,Provincia,Province,NA,GQ.CS,NA,Equatorial Guinea (mainland),NA
+1044,GNQ,Equatorial Guinea,GNQ.5_1,Kié-Ntem,NA,NA,Provincia,Province,NA,GQ.KN,NA,Equatorial Guinea (mainland),NA
+1045,GNQ,Equatorial Guinea,GNQ.6_1,Litoral,NA,NA,Provincia,Province,NA,GQ.LI,GQ-LI,Equatorial Guinea (mainland),NA
+1046,GNQ,Equatorial Guinea,GNQ.7_1,Wele-Nzas,NA,NA,Provincia,Province,NA,GQ.WN,GQ-WN,Equatorial Guinea (mainland),NA
+1047,GRC,Greece,GRC.1_1,Aegean,NA,Αιγαίο,Apokentroménes dioikíseis,Decentralized administration,NA,GR.AI,NA,East Aegean Is.,NA
+1048,GRC,Greece,GRC.2_1,Athos,NA,Άθως,Apokentroménes dioikíseis,Decentralized administration,NA,GR.MA,NA,Greece (mainland),NA
+1049,GRC,Greece,GRC.3_1,Attica,NA,Αττική,Apokentroménes dioikíseis,Decentralized administration,NA,GR.AT,NA,Greece (mainland),NA
+1050,GRC,Greece,GRC.4_1,Crete,NA,Κρήτη,Apokentroménes dioikíseis,Decentralized administration,NA,GR.CR,NA,Kriti,NA
+1051,GRC,Greece,GRC.5_1,Epirus and Western Macedonia,NA,Ήπειρος και Δυτική Μακεδονία,Apokentroménes dioikíseis,Decentralized administration,NA,GR.EM,NA,Greece (mainland),NA
+1052,GRC,Greece,GRC.6_1,Macedonia and Thrace,NA,Μακεδονία και Θράκη,Apokentroménes dioikíseis,Decentralized administration,NA,GR.MH,NA,Greece (mainland),NA
+1053,GRC,Greece,GRC.7_1,"Peloponnese, Western Greece and",NA,"Πελοπόννησος, Δυτική Ελλάδα και",Apokentroménes dioikíseis,Decentralized administration,NA,GR.PW,NA,Greece (mainland),NA
+1054,GRC,Greece,GRC.8_1,Thessaly and Central Greece,NA,Θεσσαλία και Στερεά Ελλάδα,Apokentroménes dioikíseis,Decentralized administration,NA,GR.TC,NA,Greece (mainland),NA
+1120,HND,Honduras,HND.1_1,Atlántida,NA,NA,Departamento,Department,NA,HN.AT,NA,Honduras (mainland),NA
+1121,HND,Honduras,HND.2_1,Choluteca,NA,NA,Departamento,Department,NA,HN.CH,HN-CH,Honduras (mainland),NA
+1122,HND,Honduras,HND.3_1,Colón,NA,NA,Departamento,Department,NA,HN.CL,NA,Honduras (mainland),NA
+1123,HND,Honduras,HND.4_1,Comayagua,NA,NA,Departamento,Department,NA,HN.CM,HN-CM,Honduras (mainland),NA
+1124,HND,Honduras,HND.5_1,Copán,NA,NA,Departamento,Department,NA,HN.CP,NA,Honduras (mainland),NA
+1125,HND,Honduras,HND.6_1,Cortés,Cortez,NA,Departamento,Department,NA,HN.CR,NA,Honduras (mainland),NA
+1126,HND,Honduras,HND.7_1,El Paraíso,Paraiso,NA,Departamento,Department,NA,HN.EP,NA,Honduras (mainland),NA
+1127,HND,Honduras,HND.8_1,Francisco Morazán,Tegucigalpa,NA,Departamento,Department,NA,HN.FM,NA,Honduras (mainland),NA
+1128,HND,Honduras,HND.9_1,Gracias a Dios,NA,NA,Departamento,Department,NA,HN.GD,HN-GD,Honduras (mainland),NA
+1129,HND,Honduras,HND.10_1,Intibucá,NA,NA,Departamento,Department,NA,HN.IN,NA,Honduras (mainland),NA
+1130,HND,Honduras,HND.11_1,Islas de la Bahía,Islas de Bahia,NA,Departamento,Department,NA,HN.IB,NA,Honduran Caribbean Is.,NA
+1131,HND,Honduras,HND.12_1,La Paz,NA,NA,Departamento,Department,NA,HN.LP,HN-LP,Honduras (mainland),NA
+1132,HND,Honduras,HND.13_1,Lempira,Gracias,NA,Departamento,Department,NA,HN.LE,HN-LE,Honduras (mainland),NA
+1133,HND,Honduras,HND.14_1,Ocotepeque,NA,NA,Departamento,Department,NA,HN.OC,HN-OC,Honduras (mainland),NA
+1134,HND,Honduras,HND.15_1,Olancho,NA,NA,Departamento,Department,NA,HN.OL,HN-OL,Honduras (mainland),NA
+1135,HND,Honduras,HND.16_1,Santa Bárbara,NA,NA,Departamento,Department,NA,HN.CP,NA,Honduras (mainland),NA
+1136,HND,Honduras,HND.17_1,Valle,NA,NA,Departamento,Department,NA,HN.VA,HN-VA,Honduras (mainland),NA
+1137,HND,Honduras,HND.18_1,Yoro,NA,NA,Departamento,Department,NA,HN.YO,HN-YO,Honduras (mainland),NA
+1189,IDN,Indonesia,IDN.1_1,Aceh,NA,NA,Propinisi,Province,11,ID.AC,ID-AC,Sumatera,NA
+1190,IDN,Indonesia,IDN.2_1,Bali,NA,NA,Propinisi,Province,51,ID.BA,ID-BA,Bali,NA
+1191,IDN,Indonesia,IDN.3_1,Bangka Belitung,NA,NA,Propinisi,Province,19,ID.BB,NA,Sumatera,NA
+1192,IDN,Indonesia,IDN.4_1,Banten,NA,NA,Propinisi,Province,36,ID.BT,ID-BT,Jawa,NA
+1193,IDN,Indonesia,IDN.5_1,Bengkulu,NA,NA,Propinisi,Province,17,ID.BE,ID-BE,Sumatera,NA
+1194,IDN,Indonesia,IDN.6_1,Gorontalo,NA,NA,Propinisi,Province,75,ID.GO,ID-GO,Sulawesi,NA
+1195,IDN,Indonesia,IDN.7_1,Jakarta Raya,NA,NA,Propinisi,Province,31,ID.JK,ID-JK,Jawa,NA
+1196,IDN,Indonesia,IDN.8_1,Jambi,NA,NA,Propinisi,Province,15,ID.JA,ID-JA,Sumatera,NA
+1197,IDN,Indonesia,IDN.9_1,Jawa Barat,NA,NA,Propinisi,Province,32,ID.JR,ID-JB,Jawa,NA
+1198,IDN,Indonesia,IDN.10_1,Jawa Tengah,NA,NA,Propinisi,Province,33,ID.JT,ID-JT,Jawa,NA
+1199,IDN,Indonesia,IDN.11_1,Jawa Timur,NA,NA,Propinisi,Province,35,ID.JI,ID-JI,Jawa,NA
+1200,IDN,Indonesia,IDN.12_1,Kalimantan Barat,NA,NA,Propinisi,Province,61,ID.KB,ID-KB,Kalimantan,NA
+1201,IDN,Indonesia,IDN.13_1,Kalimantan Selatan,NA,NA,Propinisi,Province,63,ID.KS,ID-KS,Kalimantan,NA
+1202,IDN,Indonesia,IDN.14_1,Kalimantan Tengah,NA,NA,Propinisi,Province,62,ID.KT,ID-KT,Kalimantan,NA
+1203,IDN,Indonesia,IDN.34_1,Kalimantan Timur,NA,NA,Propinisi,Province,64,ID.KM,ID-KI,Kalimantan,NA
+1204,IDN,Indonesia,IDN.35_1,Kalimantan Utara,NA,NA,Propinisi,Province,64,ID.KU,ID-KU,Kalimantan,NA
+1205,IDN,Indonesia,IDN.16_1,Kepulauan Riau,NA,NA,Propinisi,Province,21,ID.KR,ID-KR,Sumatera,NA
+1206,IDN,Indonesia,IDN.17_1,Lampung,NA,NA,Propinisi,Province,18,ID.LA,ID-LA,Sumatera,NA
+1207,IDN,Indonesia,IDN.19_1,Maluku,NA,NA,Propinisi,Province,81,ID.MA,ID-ML,Maluku,NA
+1208,IDN,Indonesia,IDN.18_1,Maluku Utara,NA,NA,Propinisi,Province,82,ID.MU,ID-MU,Maluku,NA
+1209,IDN,Indonesia,IDN.20_1,Nusa Tenggara Barat,NA,NA,Propinisi,Province,52,ID.NB,ID-NB,Lesser Sunda Is.,NA
+1210,IDN,Indonesia,IDN.21_1,Nusa Tenggara Timur,NA,NA,Propinisi,Province,53,ID.NT,ID-NT,Lesser Sunda Is.,NA
+1211,IDN,Indonesia,IDN.23_1,Papua,NA,NA,Propinisi,Province,94,ID.PA,ID-PP,Papua,NA
+1212,IDN,Indonesia,IDN.22_1,Papua Barat,NA,NA,Propinisi,Province,91,ID.IB,ID-PB,Papua,NA
+1213,IDN,Indonesia,IDN.24_1,Riau,NA,NA,Propinisi,Province,14,ID.RI,ID-RI,Sumatera,NA
+1214,IDN,Indonesia,IDN.25_1,Sulawesi Barat,NA,NA,Propinisi,Province,76,ID.SR,ID-SR,Sulawesi,NA
+1215,IDN,Indonesia,IDN.26_1,Sulawesi Selatan,NA,NA,Propinisi,Province,73,ID.SE,ID-SN,Sulawesi,NA
+1216,IDN,Indonesia,IDN.27_1,Sulawesi Tengah,NA,NA,Propinisi,Province,72,ID.ST,ID-ST,Sulawesi,NA
+1217,IDN,Indonesia,IDN.28_1,Sulawesi Tenggara,NA,NA,Propinisi,Province,74,ID.SG,ID-SG,Sulawesi,NA
+1218,IDN,Indonesia,IDN.29_1,Sulawesi Utara,NA,NA,Propinisi,Province,71,ID.SW,ID-SA,Sulawesi,NA
+1219,IDN,Indonesia,IDN.30_1,Sumatera Barat,NA,NA,Propinisi,Province,13,ID.SB,ID-SB,Sumatera,NA
+1220,IDN,Indonesia,IDN.31_1,Sumatera Selatan,NA,NA,Propinisi,Province,16,ID.SL,ID-SS,Sumatera,NA
+1221,IDN,Indonesia,IDN.32_1,Sumatera Utara,NA,NA,Propinisi,Province,12,ID.SU,ID-SU,Sumatera,NA
+1222,IDN,Indonesia,IDN.33_1,Yogyakarta,NA,NA,Propinisi,Province,34,ID.YO,ID-YO,Jawa,NA
+1244,IND,India,IND.1_1,Andaman and Nicobar,Andaman & Nicobar Islands|Andama,NA,Union Territor,Union Territory,NA,IN.AN,NA,Andaman Is.,1
+1245,IND,India,IND.2_1,Andhra Pradesh,NA,NA,State,State,NA,IN.AP,IN-AP,Andhra Pradesh,NA
+1246,IND,India,IND.3_1,Arunachal Pradesh,Agence de la Frontière du Nord-E,NA,State,State,NA,IN.AR,IN-AR,Arunachal Pradesh,NA
+1247,Z07,India,Z07.3_1,Arunachal Pradesh,Agence de la Frontière du Nord-E,NA,State,State,NA,IN.AR,NA,Arunachal Pradesh,NA
+1248,IND,India,IND.4_1,Assam,NA,NA,State,State,NA,IN.AS,IN-AS,Assam,NA
+1249,IND,India,IND.5_1,Bihar,NA,NA,State,State,NA,IN.BR,IN-BR,Bihar,NA
+1250,IND,India,IND.6_1,Chandigarh,NA,NA,Union Territor,Union Territory,NA,IN.CH,IN-CH,Chandigarh,NA
+1251,IND,India,IND.7_1,Chhattisgarh,NA,NA,State,State,NA,IN.CT,IN-CT,Chhattisgarh,NA
+1252,IND,India,IND.8_1,Dadra and Nagar Haveli,DAdra et Nagar Haveli|Dadra e Na,NA,Union Territor,Union Territory,NA,IN.DN,IN-DN,Dadra-Nagar-Haveli,NA
+1253,IND,India,IND.9_1,Daman and Diu,NA,NA,Union Territor,Union Territory,NA,IN.DD,NA,Daman and Diu,1
+1254,IND,India,IND.10_1,Goa,Gôa,NA,State,State,NA,IN.GA,IN-GA,Goa,NA
+1255,IND,India,IND.11_1,Gujarat,Goudjerate|Gujerat|Gujerate,NA,State,State,NA,IN.GJ,IN-GJ,Gujarat,NA
+1256,IND,India,IND.12_1,Haryana,NA,NA,State,State,NA,IN.HR,IN-HR,Haryana,NA
+1257,IND,India,IND.13_1,Himachal Pradesh,NA,NA,Union Territor,Union Territory,NA,IN.HP,IN-HP,Himachal Pradesh,NA
+1258,Z04,India,Z04.13_1,Himachal Pradesh,NA,NA,Union Territor,Union Territory,NA,IN.HP,NA,Himachal Pradesh,NA
+1259,Z09,India,Z09.13_1,Himachal Pradesh,NA,NA,Union Territor,Union Territory,NA,IN.HP,NA,Himachal Pradesh,NA
+1260,Z01,India,Z01.14_1,Jammu and Kashmir,NA,NA,State,State,NA,IN.JK,NA,Jammu-Kashmir,NA
+1261,IND,India,IND.15_1,Jharkhand,Vananchal,NA,State,State,NA,IN.JH,IN-JH,Jharkhand,NA
+1262,IND,India,IND.16_1,Karnataka,Maisur|Mysore,NA,State,State,NA,IN.KA,IN-KA,Karnataka,NA
+1263,IND,India,IND.17_1,Kerala,NA,NA,State,State,NA,IN.KL,IN-KL,Kerala,NA
+1264,IND,India,IND.18_1,Lakshadweep,Íles Laquedives|Laccadive|Minico,NA,Union Territor,Union Territory,NA,IN.LD,IN-LD,Laccadive Is.,NA
+1265,IND,India,IND.19_1,Madhya Pradesh,NA,NA,State,State,NA,IN.MP,IN-MP,Madhya Pradesh,NA
+1266,IND,India,IND.20_1,Maharashtra,NA,NA,State,State,NA,IN.MH,IN-MH,Maharashtra,NA
+1267,IND,India,IND.21_1,Manipur,NA,NA,State,State,NA,IN.MN,IN-MN,Manipur,NA
+1268,IND,India,IND.22_1,Meghalaya,NA,NA,State,State,NA,IN.ML,IN-ML,Meghalaya,NA
+1269,IND,India,IND.23_1,Mizoram,NA,NA,State,State,NA,IN.MZ,IN-MZ,Mizoram,NA
+1270,IND,India,IND.24_1,Nagaland,NA,NA,State,State,NA,IN.NL,IN-NL,Nagaland,NA
+1271,IND,India,IND.25_1,NCT of Delhi,NA,NA,Union Territor,Union Territory,NA,IN.DL,NA,Delhi,NA
+1272,IND,India,IND.26_1,Odisha,NA,NA,State,State,NA,IN.OR,IN-OR,Orissa,NA
+1273,IND,India,IND.27_1,Puducherry,Pondicherry|Puduchcheri|Pondiché,NA,Union Territor,Union Territory,NA,IN.PY,IN-PY,Pondicherry,1
+1274,IND,India,IND.28_1,Punjab,NA,NA,State,State,NA,IN.PB,IN-PB,Punjab,NA
+1275,IND,India,IND.29_1,Rajasthan,Greater Rajasthan|Rajputana,NA,State,State,NA,IN.RJ,IN-RJ,Rajasthan,NA
+1276,IND,India,IND.30_1,Sikkim,NA,NA,State,State,NA,IN.SK,IN-SK,Sikkim,NA
+1277,IND,India,IND.31_1,Tamil Nadu,Madras|Tamilnad,NA,State,State,NA,IN.TN,IN-TN,Tamil Nadu,NA
+1278,IND,India,IND.32_1,Telangana,NA,NA,State,State,NA,IN.TG,IN-TG,Telangana (Absent_SIS),NA
+1279,IND,India,IND.33_1,Tripura,NA,NA,State,State,NA,IN.TR,IN-TR,Tripura,NA
+1280,IND,India,IND.34_1,Uttar Pradesh,United Provinces,NA,State,State,NA,IN.UP,IN-UP,Uttar Pradesh,NA
+1281,IND,India,IND.35_1,Uttarakhand,Uttarakhand,NA,State,State,NA,IN.UT,IN-UT,Uttaranchal,NA
+1282,Z05,India,Z05.35_1,Uttarakhand,Uttarakhand,NA,State,State,NA,IN.UT,NA,Uttaranchal,NA
+1283,Z09,India,Z09.35_1,Uttarakhand,Uttarakhand,NA,State,State,NA,IN.UT,NA,Uttaranchal,NA
+1284,IND,India,IND.36_1,West Bengal,Bangla|Bengala Occidentale|Benga,NA,State,State,NA,IN.WB,IN-WB,West Bengal,NA
+1375,ITA,Italy,ITA.1_1,Abruzzo,Abruzos|Abruzzen|Abruzzes|Abruzz,NA,Regione,Region,13,NA,IT-65,Italy (mainland),NA
+1376,ITA,Italy,ITA.2_1,Apulia,Apulien|Pouilles|Pouille|Puglia|,NA,Regione,Region,16,NA,NA,Italy (mainland),NA
+1377,ITA,Italy,ITA.3_1,Basilicata,Basilicate|Lucania,NA,Regione,Region,17,NA,IT-77,Italy (mainland),NA
+1378,ITA,Italy,ITA.4_1,Calabria,Calabre|Calabrie|Kalabrien,NA,Regione,Region,18,NA,IT-78,Italy (mainland),NA
+1379,ITA,Italy,ITA.5_1,Campania,Campanha|Campanie|Kampanien,NA,Regione,Region,15,NA,IT-72,Italy (mainland),NA
+1380,ITA,Italy,ITA.6_1,Emilia-Romagna,Emilia Romagna|Emilia|Emilia-Rom,NA,Regione,Region,8,NA,IT-45,Italy (mainland),NA
+1381,ITA,Italy,ITA.7_1,Friuli-Venezia Giulia,Friuli Venezia Giulia|Friuli-Ven,NA,Regione,Autonomous Region,6,NA,IT-36,Italy (mainland),NA
+1382,ITA,Italy,ITA.8_1,Lazio,Lacio|Latium,NA,Regione,Region,12,NA,IT-62,Italy (mainland),NA
+1383,ITA,Italy,ITA.9_1,Liguria,Ligurie|Ligurien,NA,Regione,Region,7,NA,IT-42,Italy (mainland),NA
+1384,ITA,Italy,ITA.10_1,Lombardia,Lombardy|Lombardei|Lombardie,NA,Regione,Region,3,NA,IT-25,Italy (mainland),NA
+1385,ITA,Italy,ITA.11_1,Marche,Marches|Marca,NA,Regione,Region,11,NA,IT-57,Italy (mainland),NA
+1386,ITA,Italy,ITA.12_1,Molise,Molisa,NA,Regione,Region,14,NA,IT-67,Italy (mainland),NA
+1387,ITA,Italy,ITA.13_1,Piemonte,Piemont|Piémont|Piemonte|Piedmon,NA,Regione,Region,1,NA,IT-21,Italy (mainland),NA
+1388,ITA,Italy,ITA.14_1,Sardegna,Cerdeña|Sardenha,NA,Regione,Autonomous Region,20,NA,IT-88,Sardegna,NA
+1389,ITA,Italy,ITA.15_1,Sicily,Sicilia,NA,Regione,Autonomous Region,19,NA,NA,Sicilia,NA
+1390,ITA,Italy,ITA.16_1,Toscana,Tuscany|Toscane|Toskana,NA,Regione,Region,9,NA,IT-52,Italy (mainland),NA
+1391,ITA,Italy,ITA.17_1,Trentino-Alto Adige,Trentino - Alto Adige|Trentino-A,NA,Regione,Autonomous Region,4,NA,IT-32,Italy (mainland),NA
+1392,ITA,Italy,ITA.18_1,Umbria,Ombrie|Umbrien,NA,Regione,Region,10,NA,IT-55,Italy (mainland),NA
+1393,ITA,Italy,ITA.19_1,Valle d'Aosta,Aosta Valley|Val d'Aoste|Vallée,NA,Regione,Autonomous Region,2,NA,IT-23,Italy (mainland),NA
+1394,ITA,Italy,ITA.20_1,Veneto,Venecia|Venetia|Venezia Euganea,NA,Regione,Region,5,NA,IT-34,Italy (mainland),NA
+1433,JPN,Japan,JPN.1_1,Aichi,Aiti,愛知県,Ken,Prefecture,NA,JP.AI,JP-23,Honshu,NA
+1434,JPN,Japan,JPN.2_1,Akita,NA,秋田県,Ken,Prefecture,NA,JP.AK,JP-05,Honshu,NA
+1435,JPN,Japan,JPN.3_1,Aomori,NA,青森県,Ken,Prefecture,NA,JP.AO,JP-02,Honshu,NA
+1436,JPN,Japan,JPN.4_1,Chiba,Tiba|Tsiba,千葉県,Ken,Prefecture,NA,JP.CH,JP-12,Honshu,NA
+1437,JPN,Japan,JPN.5_1,Ehime,NA,愛媛県,Ken,Prefecture,NA,JP.EH,JP-38,Ehime,NA
+1438,JPN,Japan,JPN.6_1,Fukui,Hukui,福井県,Ken,Prefecture,NA,JP.FI,JP-18,Honshu,NA
+1439,JPN,Japan,JPN.7_1,Fukuoka,Hukuoka,福岡県,Ken,Prefecture,NA,JP.FO,JP-40,Kyushu,NA
+1440,JPN,Japan,JPN.8_1,Fukushima,Hukusima,福島県,Ken,Prefecture,NA,JP.FS,JP-07,Honshu,NA
+1441,JPN,Japan,JPN.9_1,Gifu,Gihu,岐阜県,Ken,Prefecture,NA,JP.GF,JP-21,Honshu,NA
+1442,JPN,Japan,JPN.10_1,Gunma,GunmaGumma,群馬県,Ken,Prefecture,NA,JP.GM,JP-10,Honshu,NA
+1443,JPN,Japan,JPN.11_1,Hiroshima,Hirosima,広島県,Ken,Prefecture,NA,JP.HS,JP-34,Honshu,NA
+1444,JPN,Japan,JPN.12_1,Hokkaido,Ezo|Yeso|Yezo,北海道,Do,Circuit,NA,JP.HK,JP-01,Hokkaido,NA
+1445,JPN,Japan,JPN.13_1,Hyōgo,Hiogo,兵庫県,Ken,Prefecture,NA,JP.HG,NA,Honshu,NA
+1446,JPN,Japan,JPN.14_1,Ibaraki,NA,茨城県,Ken,Prefecture,NA,JP.IB,JP-08,Honshu,NA
+1447,JPN,Japan,JPN.15_1,Ishikawa,Isikawa,石川県,Ken,Prefecture,NA,JP.IS,JP-17,Honshu,NA
+1448,JPN,Japan,JPN.16_1,Iwate,NA,岩手県,Ken,Prefecture,NA,JP.IW,JP-03,Honshu,NA
+1449,JPN,Japan,JPN.17_1,Kagawa,NA,香川県,Ken,Prefecture,NA,JP.KG,JP-37,Shikoku,NA
+1450,JPN,Japan,JPN.18_1,Kagoshima,NA,鹿児島県,Ken,Prefecture,NA,JP.KS,JP-46,Kyushu,NA
+1451,JPN,Japan,JPN.19_1,Kanagawa,NA,神奈川県,Ken,Prefecture,NA,JP.KN,JP-14,Honshu,NA
+1452,JPN,Japan,JPN.20_1,Kochi,Koti,高知県,Ken,Prefecture,NA,JP.KC,JP-39,Ehime,NA
+1453,JPN,Japan,JPN.21_1,Kumamoto,NA,熊本県,Ken,Prefecture,NA,JP.KM,JP-43,Kyushu,NA
+1454,JPN,Japan,JPN.22_1,Kyoto,Kioto,京都府,Fu,Urban Prefecture,NA,JP.KY,JP-26,Honshu,NA
+1455,JPN,Japan,JPN.23_1,Mie,Miye,三重県,Ken,Prefecture,NA,JP.ME,JP-24,Honshu,NA
+1456,JPN,Japan,JPN.24_1,Miyagi,NA,宮城県,Ken,Prefecture,NA,JP.MG,JP-04,Honshu,NA
+1457,JPN,Japan,JPN.25_1,Miyazaki,NA,宮崎県,Ken,Prefecture,NA,JP.MZ,JP-45,Kyushu,NA
+1458,JPN,Japan,JPN.26_1,Nagano,NA,長野県,Ken,Prefecture,NA,JP.NN,JP-20,Honshu,NA
+1459,JPN,Japan,JPN.27_1,Naoasaki,Nagasaki,長崎県,Ken,Prefecture,NA,JP.NS,NA,Kyushu,NA
+1460,JPN,Japan,JPN.28_1,Nara,NA,奈良県,Ken,Prefecture,NA,JP.NR,JP-29,Honshu,NA
+1461,JPN,Japan,JPN.29_1,Niigata,NA,新潟県,Ken,Prefecture,NA,JP.NI,JP-15,Honshu,NA
+1462,JPN,Japan,JPN.30_1,Oita,NA,大分県,Ken,Prefecture,NA,JP.OT,JP-44,Kyushu,NA
+1463,JPN,Japan,JPN.31_1,Okayama,NA,岡山県,Ken,Prefecture,NA,JP.OY,JP-33,Honshu,NA
+1464,JPN,Japan,JPN.32_1,Okinawa,NA,沖縄県,Ken,Prefecture,NA,JP.ON,JP-47,Nansei-shoto,NA
+1465,JPN,Japan,JPN.33_1,Osaka,NA,大阪府,Fu,Urban Prefecture,NA,JP.OS,JP-27,Honshu,NA
+1466,JPN,Japan,JPN.34_1,Saga,NA,佐賀県,Ken,Prefecture,NA,JP.SG,JP-41,Kyushu,NA
+1467,JPN,Japan,JPN.35_1,Saitama,NA,埼玉県,Ken,Prefecture,NA,JP.ST,JP-11,Honshu,NA
+1468,JPN,Japan,JPN.36_1,Shiga,Siga,滋賀県,Ken,Prefecture,NA,JP.SH,JP-25,Honshu,NA
+1469,JPN,Japan,JPN.37_1,Shimane,Simane,島根県,Ken,Prefecture,NA,JP.SM,JP-32,Honshu,NA
+1470,JPN,Japan,JPN.38_1,Shizuoka,Sizuoka,静岡県,Ken,Prefecture,NA,JP.SZ,JP-22,Honshu,NA
+1471,JPN,Japan,JPN.39_1,Tochigi,Totigi,栃木県,Ken,Prefecture,NA,JP.TC,JP-09,Honshu,NA
+1472,JPN,Japan,JPN.40_1,Tokushima,Tokusima,徳島県,Ken,Prefecture,NA,JP.TS,JP-36,Shikoku,NA
+1473,JPN,Japan,JPN.41_1,Tokyo,Edo|Yedo|Tokio|T¢quio,東京都,To,Metropolis,NA,JP.TK,JP-13,Honshu,1
+1474,JPN,Japan,JPN.42_1,Tottori,NA,鳥取県,Ken,Prefecture,NA,JP.TT,JP-31,Honshu,NA
+1475,JPN,Japan,JPN.43_1,Toyama,NA,富山県,Ken,Prefecture,NA,JP.TY,JP-16,Honshu,NA
+1476,JPN,Japan,JPN.44_1,Wakayama,NA,和歌山県,Ken,Prefecture,NA,JP.WK,JP-30,Honshu,NA
+1477,JPN,Japan,JPN.45_1,Yamagata,NA,山形県,Ken,Prefecture,NA,JP.YT,JP-06,Honshu,NA
+1478,JPN,Japan,JPN.46_1,Yamaguchi,Yamaguti,山口県,Ken,Prefecture,NA,JP.YC,JP-35,Honshu,NA
+1479,JPN,Japan,JPN.47_1,Yamanashi,Yamanasi,山梨県,Ken,Prefecture,NA,JP.YN,JP-19,Honshu,NA
+1807,MEX,México,MEX.1_1,Aguascalientes,NA,NA,Estado,State,NA,MX.AG,MX-AGU,Aguascalientes,NA
+1808,MEX,México,MEX.3_1,Baja California,NA,NA,Estado,State,NA,MX.BN,MX-BCN,Baja California,1
+1809,MEX,México,MEX.2_1,Baja California Sur,NA,NA,Estado,State,NA,MX.BS,MX-BCS,Baja California Sur,NA
+1810,MEX,México,MEX.4_1,Campeche,NA,NA,Estado,State,NA,MX.CM,MX-CAM,Campeche,NA
+1811,MEX,México,MEX.5_1,Chiapas,NA,NA,Estado,State,NA,MX.CP,MX-CHP,Chiapas,NA
+1812,MEX,México,MEX.6_1,Chihuahua,NA,NA,Estado,State,NA,MX.CH,MX-CHH,Chihuahua,NA
+1813,MEX,México,MEX.7_1,Coahuila,Coahuila de Zaragoza,NA,Estado,State,NA,MX.CA,NA,Coahuila,NA
+1814,MEX,México,MEX.8_1,Colima,NA,NA,Estado,State,NA,MX.CL,MX-COL,Colima,1
+1815,MEX,México,MEX.9_1,Distrito Federal,NA,NA,Distrito Federal,Federal District,NA,MX.DF,NA,M�xico Distrito Federal,NA
+1816,MEX,México,MEX.10_1,Durango,NA,NA,Estado,State,NA,MX.DU,MX-DUR,Durango,NA
+1817,MEX,México,MEX.11_1,Guanajuato,NA,NA,Estado,State,NA,MX.GJ,MX-GUA,Guanajuato,NA
+1818,MEX,México,MEX.12_1,Guerrero,NA,NA,Estado,State,NA,MX.GR,MX-GRO,Guerrero,NA
+1819,MEX,México,MEX.13_1,Hidalgo,NA,NA,Estado,State,NA,MX.HI,MX-HID,Hidalgo,NA
+1820,MEX,México,MEX.14_1,Jalisco,NA,NA,Estado,State,NA,MX.JA,MX-JAL,Jalisco,NA
+1821,MEX,México,MEX.15_1,México,NA,NA,Estado,State,NA,MX.MX,NA,M�xico State,NA
+1822,MEX,México,MEX.16_1,Michoacán,Michoacán de Ocampo,NA,Estado,State,NA,MX.MC,NA,Michoac�n,NA
+1823,MEX,México,MEX.17_1,Morelos,NA,NA,Estado,State,NA,MX.MR,MX-MOR,Morelos,NA
+1824,MEX,México,MEX.18_1,Nayarit,NA,NA,Estado,State,NA,MX.NA,MX-NAY,Nayarit,NA
+1825,MEX,México,MEX.19_1,Nuevo León,NA,NA,Estado,State,NA,MX.NL,NA,Nuevo Le�n,NA
+1826,MEX,México,MEX.20_1,Oaxaca,NA,NA,Estado,State,NA,MX.OA,MX-OAX,Oaxaca,NA
+1827,MEX,México,MEX.21_1,Puebla,NA,NA,Estado,State,NA,MX.PU,MX-PUE,Puebla,NA
+1828,MEX,México,MEX.22_1,Querétaro,Querétaro de Arteaga,NA,Estado,State,NA,MX.QE,NA,Quer�taro,NA
+1829,MEX,México,MEX.23_1,Quintana Roo,NA,NA,Estado,State,NA,MX.QR,MX-ROO,Quintana Roo,NA
+1830,MEX,México,MEX.24_1,San Luis Potosí,NA,NA,Estado,State,NA,MX.SL,NA,San Luis Potos�,NA
+1831,MEX,México,MEX.25_1,Sinaloa,NA,NA,Estado,State,NA,MX.SI,MX-SIN,Sinaloa,NA
+1832,MEX,México,MEX.26_1,Sonora,NA,NA,Estado,State,NA,MX.SO,MX-SON,Sonora,NA
+1833,MEX,México,MEX.27_1,Tabasco,NA,NA,Estado,State,NA,MX.TB,MX-TAB,Tabasco,NA
+1834,MEX,México,MEX.28_1,Tamaulipas,NA,NA,Estado,State,NA,MX.TM,MX-TAM,Tamaulipas,NA
+1835,MEX,México,MEX.29_1,Tlaxcala,NA,NA,Estado,State,NA,MX.TL,MX-TLA,Tlaxcala,NA
+1836,MEX,México,MEX.30_1,Veracruz,Veracruz de Ignacio de la Llave,NA,Estado,State,NA,MX.VE,NA,Veracruz,NA
+1837,MEX,México,MEX.31_1,Yucatán,NA,NA,Estado,State,NA,MX.YU,NA,Yucat�n,NA
+1838,MEX,México,MEX.32_1,Zacatecas,NA,NA,Estado,State,NA,MX.ZA,MX-ZAC,Zacatecas,NA
+1957,MMR,Myanmar,MMR.1_1,Ayeyarwady,Irrawaddy|Ayeyarwaddy|Ayeyawady|,NA,Yin,Division,NA,MM.AY,MM-07,Myanmar (mainland),NA
+1958,MMR,Myanmar,MMR.2_1,Bago,Pégou|Pegu,NA,Yin,Division,NA,MM.BA,MM-02,Myanmar (mainland),NA
+1959,MMR,Myanmar,MMR.3_1,Chin,Chin Hills,NA,Pyine,State,NA,MM.CH,NA,Myanmar (mainland),NA
+1960,MMR,Myanmar,MMR.4_1,Kachin,Jingphaw Mungdaw,NA,Pyine,State,NA,MM.KC,MM-11,Myanmar (mainland),NA
+1961,MMR,Myanmar,MMR.5_1,Kayah,Karenni,NA,Pyine,State,NA,MM.KH,MM-12,Myanmar (mainland),NA
+1962,MMR,Myanmar,MMR.6_1,Kayin,Kawthulei|Karen|Karin|Kawthoolei,NA,Pyine,State,NA,MM.KN,MM-13,Myanmar (mainland),NA
+1963,MMR,Myanmar,MMR.7_1,Magway,Magwe|Minbu,NA,Yin,Division,NA,MM.MG,MM-03,Myanmar (mainland),NA
+1964,MMR,Myanmar,MMR.8_1,Mandalay,NA,NA,Yin,Division,NA,MM.MD,MM-04,Myanmar (mainland),NA
+1965,MMR,Myanmar,MMR.9_1,Mon,Mun,NA,Pyine,State,NA,MM.MO,MM-15,Myanmar (mainland),NA
+1966,MMR,Myanmar,MMR.10_1,Naypyitaw,Naypyidaw|Nay Pyi Taw,NA,Union territory,Union territory,NA,MM.NY,NA,Myanmar (mainland),NA
+1967,MMR,Myanmar,MMR.11_1,Rakhine,Arakan,NA,Pyine,State,NA,MM.RA,MM-16,Myanmar (mainland),NA
+1968,MMR,Myanmar,MMR.12_1,Sagaing,NA,NA,Yin,Division,NA,MM.SA,MM-01,Myanmar (mainland),NA
+1969,MMR,Myanmar,MMR.13_1,Shan,NA,NA,Pyine,State,NA,MM.SH,MM-17,Myanmar (mainland),NA
+1970,MMR,Myanmar,MMR.14_1,Tanintharyi,Tenasserim|Thanintharyi,NA,Yin,Division,NA,MM.TN,MM-05,Myanmar (mainland),NA
+1971,MMR,Myanmar,MMR.15_1,Yangon,Rangoon|Rangum|Rangun|Rang£n,NA,Yin,Division,NA,MM.YA,MM-06,Myanmar (mainland),NA
+2050,MUS,Mauritius,MUS.1_1,Agalega Islands,îles Agaléga,NA,Region,Region,NA,MU.AG,NA,Mauritius (main island),NA
+2051,MUS,Mauritius,MUS.2_1,Black River,NA,NA,District,District,NA,MU.BL,MU-BL,Mauritius (main island),NA
+2052,MUS,Mauritius,MUS.3_1,Flacq,NA,NA,District,District,NA,MU.FL,MU-FL,Mauritius (main island),NA
+2053,MUS,Mauritius,MUS.4_1,Grand Port,NA,NA,District,District,NA,MU.GP,MU-GP,Mauritius (main island),NA
+2054,MUS,Mauritius,MUS.5_1,Moka,NA,NA,District,District,NA,MU.MO,MU-MO,Mauritius (main island),NA
+2055,MUS,Mauritius,MUS.6_1,Pamplemousses,NA,NA,District,District,NA,MU.PA,MU-PA,Mauritius (main island),NA
+2056,MUS,Mauritius,MUS.7_1,Plaines Wilhems,NA,NA,District,District,NA,MU.PW,MU-PW,Mauritius (main island),NA
+2057,MUS,Mauritius,MUS.8_1,Port Louis,NA,NA,District,District,NA,MU.PL,MU-PL,Mauritius (main island),NA
+2058,MUS,Mauritius,MUS.9_1,Rivière du Rempart,NA,NA,District,District,NA,MU.RR,NA,Mauritius (main island),NA
+2059,MUS,Mauritius,MUS.10_1,Rodriguez,île Rodrigues,NA,Autonomous island,Autonomous island,NA,MU.RO,NA,Rodrigues,NA
+2060,MUS,Mauritius,MUS.11_1,Saint Brandon,Cargados Carajos),NA,Region,Region,NA,MU.CC,NA,Mauritius (main island),NA
+2061,MUS,Mauritius,MUS.12_1,Savanne,NA,NA,District,District,NA,MU.SA,MU-SA,Mauritius (main island),NA
+2090,MYS,Malaysia,MYS.1_1,Johor,Johor Darul Takzim|Johore,NA,Negeri,State,NA,MY.JH,MY-01,Peninsular Malaysia,NA
+2091,MYS,Malaysia,MYS.2_1,Kedah,Kedah Darul Aman,NA,Negeri,State,NA,MY.KH,MY-02,Peninsular Malaysia,NA
+2092,MYS,Malaysia,MYS.3_1,Kelantan,<Null>,NA,Negeri,State,NA,MY.KN,MY-03,Peninsular Malaysia,NA
+2093,MYS,Malaysia,MYS.4_1,Kuala Lumpur,Federal Territory of Kuala Lumpu,NA,Wilayah Persekutuan,Federal Territory,NA,MY.KL,NA,Peninsular Malaysia,NA
+2094,MYS,Malaysia,MYS.5_1,Labuan,Federal Territory of Labuan,NA,Wilayah Persekutuan,Federal Territory,NA,MY.LA,NA,Peninsular Malaysia,NA
+2095,MYS,Malaysia,MYS.6_1,Melaka,Malacca|Malaka,NA,Negeri,State,NA,MY.ME,MY-04,Peninsular Malaysia,NA
+2096,MYS,Malaysia,MYS.7_1,Negeri Sembilan,Negeri Sembilan Darul Khusus|Neg,NA,Negeri,State,NA,MY.NS,MY-05,Peninsular Malaysia,NA
+2097,MYS,Malaysia,MYS.8_1,Pahang,Pahang Darul Makmur,NA,Negeri,State,NA,MY.PH,MY-06,Peninsular Malaysia,NA
+2098,MYS,Malaysia,MYS.9_1,Perak,Perak Darul Ridzuan,NA,Negeri,State,NA,MY.PK,MY-08,Peninsular Malaysia,NA
+2099,MYS,Malaysia,MYS.10_1,Perlis,Perlis Indra Kayangan,NA,Negeri,State,NA,MY.PL,MY-09,Peninsular Malaysia,NA
+2100,MYS,Malaysia,MYS.11_1,Pulau Pinang,Penang and Province Wellesley|Pe,NA,Negeri,State,NA,MY.PG,MY-07,Peninsular Malaysia,NA
+2101,MYS,Malaysia,MYS.12_1,Putrajaya,Federal Territory of Putrajaya,NA,Wilayah Persekutuan,Federal Territory,NA,MY.PJ,NA,Peninsular Malaysia,NA
+2102,MYS,Malaysia,MYS.13_1,Sabah,North Borneo,NA,Negeri,State,NA,MY.SA,MY-12,Sabah,NA
+2103,MYS,Malaysia,MYS.14_1,Sarawak,NA,NA,Negeri,State,NA,MY.SK,MY-13,Sarawak,NA
+2104,MYS,Malaysia,MYS.15_1,Selangor,Selangor Darul Ehsan,NA,Negeri,State,NA,MY.SL,MY-10,Peninsular Malaysia,NA
+2105,MYS,Malaysia,MYS.16_1,Trengganu,Terengganu Darul Iman,NA,Negeri,State,NA,MY.TE,NA,Peninsular Malaysia,NA
+2123,NAM,Namibia,NAM.1_1,!Karas,Karas,NA,Region,Region,NA,NA.KA,NA,Namibia (main part),NA
+2124,NAM,Namibia,NAM.2_1,Erongo,NA,NA,Region,Region,NA,NA.ER,NA-ER,Namibia (main part),NA
+2125,NAM,Namibia,NAM.3_1,Hardap,NA,NA,Region,Region,NA,NA.HA,NA-HA,Namibia (main part),NA
+2126,NAM,Namibia,NAM.4_1,Kavango,NA,NA,Region,Region,NA,NA.OK,NA,Namibia (main part),NA
+2127,NAM,Namibia,NAM.5_1,Khomas,NA,NA,Region,Region,NA,NA.KH,NA-KH,Namibia (main part),NA
+2128,NAM,Namibia,NAM.6_1,Kunene,NA,NA,Region,Region,NA,NA.KU,NA-KU,Namibia (main part),NA
+2129,NAM,Namibia,NAM.7_1,Ohangwena,NA,NA,Region,Region,NA,NA.OW,NA-OW,Namibia (main part),NA
+2130,NAM,Namibia,NAM.8_1,Omaheke,NA,NA,Region,Region,NA,NA.OH,NA-OH,Namibia (main part),NA
+2131,NAM,Namibia,NAM.9_1,Omusati,NA,NA,Region,Region,NA,NA.OS,NA-OS,Namibia (main part),NA
+2132,NAM,Namibia,NAM.10_1,Oshana,NA,NA,Region,Region,NA,NA.ON,NA-ON,Namibia (main part),NA
+2133,NAM,Namibia,NAM.11_1,Oshikoto,NA,NA,Region,Region,NA,NA.OT,NA-OT,Namibia (main part),NA
+2134,NAM,Namibia,NAM.12_1,Otjozondjupa,NA,NA,Region,Region,NA,NA.OD,NA-OD,Namibia (main part),NA
+2135,NAM,Namibia,NAM.13_1,Zambezi,Caprivi,NA,Region,Region,NA,NA.CA,NA-CA,Caprivi Strip,NA
+2184,NIC,Nicaragua,NIC.1_1,Atlántico Norte,Región Autónoma del Atlántico No,NA,Región Autónoma,Autonomous Region,NA,NI.AN,NA,Nicaragua (mainland),1
+2185,NIC,Nicaragua,NIC.2_1,Atlántico Sur,Región Autónoma del Atlántico No,NA,Región Autónoma,Autonomous Region,NA,NI.AS,NA,Nicaragua (mainland),1
+2186,NIC,Nicaragua,NIC.3_1,Boaco,NA,NA,Departamento,Department,NA,NI.BO,NI-BO,Nicaragua (mainland),NA
+2187,NIC,Nicaragua,NIC.4_1,Carazo,NA,NA,Departamento,Department,NA,NI.CA,NI-CA,Nicaragua (mainland),NA
+2188,NIC,Nicaragua,NIC.5_1,Chinandega,NA,NA,Departamento,Department,NA,NI.CI,NI-CI,Nicaragua (mainland),NA
+2189,NIC,Nicaragua,NIC.6_1,Chontales,NA,NA,Departamento,Department,NA,NI.CO,NI-CO,Nicaragua (mainland),NA
+2190,NIC,Nicaragua,NIC.7_1,Estelí,Estel¡,NA,Departamento,Department,NA,NI.ES,NA,Nicaragua (mainland),NA
+2191,NIC,Nicaragua,NIC.8_1,Granada,NA,NA,Departamento,Department,NA,NI.GR,NI-GR,Nicaragua (mainland),NA
+2192,NIC,Nicaragua,NIC.9_1,Jinotega,NA,NA,Departamento,Department,NA,NI.JI,NI-JI,Nicaragua (mainland),NA
+2193,NIC,Nicaragua,NIC.10_1,Lago Nicaragua,NA,NA,Water body,Water body,NA,lake,NA,Nicaragua (mainland),NA
+2194,NIC,Nicaragua,NIC.11_1,León,NA,NA,Departamento,Department,NA,NI.LE,NA,Nicaragua (mainland),NA
+2195,NIC,Nicaragua,NIC.12_1,Madriz,NA,NA,Departamento,Department,NA,NI.MD,NI-MD,Nicaragua (mainland),NA
+2196,NIC,Nicaragua,NIC.13_1,Managua,NA,NA,Departamento,Department,NA,NI.MN,NI-MN,Nicaragua (mainland),NA
+2197,NIC,Nicaragua,NIC.14_1,Masaya,NA,NA,Departamento,Department,NA,NI.MS,NI-MS,Nicaragua (mainland),NA
+2198,NIC,Nicaragua,NIC.15_1,Matagalpa,NA,NA,Departamento,Department,NA,NI.MT,NI-MT,Nicaragua (mainland),NA
+2199,NIC,Nicaragua,NIC.16_1,Nueva Segovia,NA,NA,Departamento,Department,NA,NI.NS,NI-NS,Nicaragua (mainland),NA
+2200,NIC,Nicaragua,NIC.17_1,Río San Juan,NA,NA,Departamento,Department,NA,NI.SJ,NA,Nicaragua (mainland),NA
+2201,NIC,Nicaragua,NIC.18_1,Rivas,NA,NA,Departamento,Department,NA,NI.RI,NI-RI,Nicaragua (mainland),NA
+2254,NZL,New Zealand,NZL.1_1,Auckland,NA,NA,Region,Region,2,NZ.AU,NZ-AUK,North Is.,NA
+2255,NZL,New Zealand,NZL.2_1,Bay of Plenty,NA,NA,Region,Region,4,NZ.BP,NZ-BOP,North Is.,NA
+2256,NZL,New Zealand,NZL.3_1,Canterbury,NA,NA,Region,Region,13,NZ.CA,NZ-CAN,South Is.,NA
+2257,NZL,New Zealand,NZL.4_1,Chatham Islands,NA,NA,Region,Territory,99,NZ.CI,NA,Chatham Is.,NA
+2258,NZL,New Zealand,NZL.5_1,Gisborne,NA,NA,Region,Region,5,NZ.GI,NZ-GIS,North Is.,NA
+2259,NZL,New Zealand,NZL.6_1,Hawke's Bay,NA,NA,Region,Region,6,NZ.HB,NZ-HKB,North Is.,NA
+2260,NZL,New Zealand,NZL.7_1,Manawatu-Wanganui,NA,NA,Region,Region,8,NZ.MW,NZ-MWT,North Is.,NA
+2261,NZL,New Zealand,NZL.8_1,Marlborough,NA,NA,Region,Region,18,NZ.MA,NZ-MBH,South Is.,NA
+2262,NZL,New Zealand,NZL.9_1,Nelson,NA,NA,Region,Region,17,NZ.NE,NZ-NSN,South Is.,NA
+2263,NZL,New Zealand,NZL.10_1,Northern Islands,NA,NA,Group of islands,Group of islands,NA,NZ.01,NA,North Is.,NA
+2264,NZL,New Zealand,NZL.11_1,Northland,NA,NA,Region,Region,1,NZ.NO,NZ-NTL,North Is.,NA
+2265,NZL,New Zealand,NZL.12_1,Otago,NA,NA,Region,Region,14,NZ.OT,NZ-OTA,South Is.,NA
+2266,NZL,New Zealand,NZL.13_1,Southern Islands,NA,NA,Group of islands,Group of islands,NA,NZ.02,NA,South Is.,1
+2267,NZL,New Zealand,NZL.14_1,Southland,NA,NA,Region,Region,15,NZ.SO,NZ-STL,South Is.,NA
+2268,NZL,New Zealand,NZL.15_1,Taranaki,NA,NA,Region,Region,7,NZ.TK,NZ-TKI,North Is.,NA
+2269,NZL,New Zealand,NZL.16_1,Tasman,NA,NA,Region,Region,16,NZ.TS,NZ-TAS,South Is.,NA
+2270,NZL,New Zealand,NZL.17_1,Waikato,NA,NA,Region,Region,3,NZ.WK,NZ-WKO,North Is.,NA
+2271,NZL,New Zealand,NZL.18_1,Wellington,NA,NA,Region,Region,9,NZ.WG,NZ-WGN,North Is.,NA
+2272,NZL,New Zealand,NZL.19_1,West Coast,NA,NA,Region,Region,12,NZ.WC,NZ-WTC,South Is.,NA
+2428,PNG,Papua New Guinea,PNG.1_1,Bougainville,Northern Solomon Islands|North S,NA,Autonomous Region,Autonomous Region,NA,PG.NS,PG-NSB,North Solomons,NA
+2429,PNG,Papua New Guinea,PNG.2_1,Central,NA,NA,Province,Province,NA,PG.CE,PG-CPM,Papua New Guinea (main island group),NA
+2430,PNG,Papua New Guinea,PNG.3_1,Chimbu,Simbu,NA,Province,Province,NA,PG.CH,PG-CPK,Papua New Guinea (main island group),NA
+2431,PNG,Papua New Guinea,PNG.4_1,East New Britain,Nova Bretanha Oriental|Nuova Bri,NA,Province,Province,NA,PG.EN,PG-EBR,Bismarck Archipelago,NA
+2432,PNG,Papua New Guinea,PNG.5_1,East Sepik,NA,NA,Province,Province,NA,PG.ES,NA,Papua New Guinea (main island group),NA
+2433,PNG,Papua New Guinea,PNG.6_1,Eastern Highlands,Planalto Oriental,NA,Province,Province,NA,PG.EH,PG-EHG,Papua New Guinea (main island group),NA
+2434,PNG,Papua New Guinea,PNG.7_1,Enga,NA,NA,Province,Province,NA,PG.EG,PG-EPW,Papua New Guinea (main island group),NA
+2435,PNG,Papua New Guinea,PNG.8_1,Gulf,NA,NA,Province,Province,NA,PG.GU,NA,Papua New Guinea (main island group),NA
+2436,PNG,Papua New Guinea,PNG.9_1,Hela,NA,NA,Province,Province,NA,PG.HE,NA,Papua New Guinea (main island group),NA
+2437,PNG,Papua New Guinea,PNG.10_1,Jiwaka,NA,NA,Province,Province,NA,PG.JI,NA,Papua New Guinea (main island group),NA
+2438,PNG,Papua New Guinea,PNG.11_1,Madang,NA,NA,Province,Province,NA,PG.MD,PG-MPM,Papua New Guinea (main island group),NA
+2439,PNG,Papua New Guinea,PNG.12_1,Manus,NA,NA,Province,Province,NA,PG.MN,PG-MRL,Bismarck Archipelago,NA
+2440,PNG,Papua New Guinea,PNG.13_1,Milne Bay,NA,NA,Province,Province,NA,PG.MB,PG-MBA,Papua New Guinea (main island group),NA
+2441,PNG,Papua New Guinea,PNG.14_1,Morobe,NA,NA,Province,Province,NA,PG.MR,PG-MPL,Papua New Guinea (main island group),NA
+2442,PNG,Papua New Guinea,PNG.15_1,National Capital District,NCD,NA,District,District,NA,PG.NC,NA,Papua New Guinea (main island group),NA
+2443,PNG,Papua New Guinea,PNG.16_1,New Ireland,Neuirland|Nouvelle-Irlande|Nova,NA,Province,Province,NA,PG.NI,PG-NIK,Bismarck Archipelago,NA
+2444,PNG,Papua New Guinea,PNG.17_1,Oro,Northern,NA,Province,Province,NA,PG.NO,NA,Papua New Guinea (main island group),NA
+2445,PNG,Papua New Guinea,PNG.18_1,Sandaun,West Sepik,NA,Province,Province,NA,PG.SA,NA,Papua New Guinea (main island group),NA
+2446,PNG,Papua New Guinea,PNG.19_1,Southern Highlands,NA,NA,Province,Province,NA,PG.SL,PG-SHM,Papua New Guinea (main island group),NA
+2447,PNG,Papua New Guinea,PNG.20_1,West New Britain,Nova Bretanha Ocidental|Nuova Br,NA,Province,Province,NA,PG.WN,PG-WBK,Bismarck Archipelago,NA
+2448,PNG,Papua New Guinea,PNG.22_1,Western,Fly,NA,Province,Province,NA,PG.WE,PG-WPD,Papua New Guinea (main island group),NA
+2449,PNG,Papua New Guinea,PNG.21_1,Western Highlands,Planalto Ocidental,NA,Province,Province,NA,PG.WL,PG-WHM,Papua New Guinea (main island group),NA
+2466,PRI,Puerto Rico,PRI.1_1,Adjuntas,NA,NA,Municipio,Municipality,NA,PR.AJ,-,Puerto Rico (main island),NA
+2467,PRI,Puerto Rico,PRI.2_1,Aguada,NA,NA,Municipio,Municipality,NA,PR.AD,-,Puerto Rico (main island),NA
+2468,PRI,Puerto Rico,PRI.3_1,Aguadilla,NA,NA,Municipio,Municipality,NA,PR.AL,-,Puerto Rico (main island),NA
+2469,PRI,Puerto Rico,PRI.4_1,Aguas Buenas,NA,NA,Municipio,Municipality,NA,PR.AB,-,Puerto Rico (main island),NA
+2470,PRI,Puerto Rico,PRI.5_1,Aibonito,NA,NA,Municipio,Municipality,NA,PR.AI,-,Puerto Rico (main island),NA
+2471,PRI,Puerto Rico,PRI.6_1,Añasco,NA,NA,Municipio,Municipality,NA,PR.AN,NA,Puerto Rico (main island),NA
+2472,PRI,Puerto Rico,PRI.7_1,Arecibo,NA,NA,Municipio,Municipality,NA,PR.AC,-,Puerto Rico (main island),NA
+2473,PRI,Puerto Rico,PRI.8_1,Arroyo,NA,NA,Municipio,Municipality,NA,PR.AR,-,Puerto Rico (main island),NA
+2474,PRI,Puerto Rico,PRI.9_1,Barceloneta,NA,NA,Municipio,Municipality,NA,PR.BC,-,Puerto Rico (main island),NA
+2475,PRI,Puerto Rico,PRI.10_1,Barranquitas,NA,NA,Municipio,Municipality,NA,PR.BQ,-,Puerto Rico (main island),NA
+2476,PRI,Puerto Rico,PRI.11_1,Bayamón,NA,NA,Municipio,Municipality,NA,PR.BY,NA,Puerto Rico (main island),NA
+2477,PRI,Puerto Rico,PRI.12_1,Cabo Rojo,NA,NA,Municipio,Municipality,NA,PR.CR,-,Puerto Rico (main island),NA
+2478,PRI,Puerto Rico,PRI.13_1,Caguas,NA,NA,Municipio,Municipality,NA,PR.CG,-,Puerto Rico (main island),NA
+2479,PRI,Puerto Rico,PRI.14_1,Camuy,NA,NA,Municipio,Municipality,NA,PR.CA,-,Puerto Rico (main island),NA
+2480,PRI,Puerto Rico,PRI.15_1,Canóvanas,NA,NA,Municipio,Municipality,NA,PR.CV,NA,Puerto Rico (main island),NA
+2481,PRI,Puerto Rico,PRI.16_1,Carolina,NA,NA,Municipio,Municipality,NA,PR.CN,-,Puerto Rico (main island),NA
+2482,PRI,Puerto Rico,PRI.17_1,Cataño,NA,NA,Municipio,Municipality,NA,PR.CT,NA,Puerto Rico (main island),NA
+2483,PRI,Puerto Rico,PRI.18_1,Cayey,NA,NA,Municipio,Municipality,NA,PR.CY,-,Puerto Rico (main island),NA
+2484,PRI,Puerto Rico,PRI.19_1,Ceiba,NA,NA,Municipio,Municipality,NA,PR.CB,-,Puerto Rico (main island),NA
+2485,PRI,Puerto Rico,PRI.20_1,Ciales,NA,NA,Municipio,Municipality,NA,PR.CL,-,Puerto Rico (main island),NA
+2486,PRI,Puerto Rico,PRI.21_1,Cidra,NA,NA,Municipio,Municipality,NA,PR.CD,-,Puerto Rico (main island),NA
+2487,PRI,Puerto Rico,PRI.22_1,Coamo,NA,NA,Municipio,Municipality,NA,PR.CO,-,Puerto Rico (main island),NA
+2488,PRI,Puerto Rico,PRI.23_1,Comerío,NA,NA,Municipio,Municipality,NA,PR.CM,NA,Puerto Rico (main island),NA
+2489,PRI,Puerto Rico,PRI.24_1,Corozal,NA,NA,Municipio,Municipality,NA,PR.CZ,-,Puerto Rico (main island),NA
+2490,PRI,Puerto Rico,PRI.25_1,Culebra,NA,NA,Municipio,Municipality,NA,PR.CU,-,Puerto Rico (main island),NA
+2491,PRI,Puerto Rico,PRI.26_1,Dorado,NA,NA,Municipio,Municipality,NA,PR.DO,-,Puerto Rico (main island),NA
+2492,PRI,Puerto Rico,PRI.27_1,Fajardo,NA,NA,Municipio,Municipality,NA,PR.FJ,-,Puerto Rico (main island),NA
+2493,PRI,Puerto Rico,PRI.28_1,Florida,NA,NA,Municipio,Municipality,NA,PR.FL,-,Puerto Rico (main island),NA
+2494,PRI,Puerto Rico,PRI.29_1,Guánica,NA,NA,Municipio,Municipality,NA,PR.GC,NA,Puerto Rico (main island),NA
+2495,PRI,Puerto Rico,PRI.30_1,Guayama,NA,NA,Municipio,Municipality,NA,PR.GM,-,Puerto Rico (main island),NA
+2496,PRI,Puerto Rico,PRI.31_1,Guayanilla,NA,NA,Municipio,Municipality,NA,PR.GL,-,Puerto Rico (main island),NA
+2497,PRI,Puerto Rico,PRI.32_1,Guaynabo,NA,NA,Municipio,Municipality,NA,PR.GB,-,Puerto Rico (main island),NA
+2498,PRI,Puerto Rico,PRI.33_1,Gurabo,NA,NA,Municipio,Municipality,NA,PR.GR,-,Puerto Rico (main island),NA
+2499,PRI,Puerto Rico,PRI.34_1,Hatillo,NA,NA,Municipio,Municipality,NA,PR.HA,-,Puerto Rico (main island),NA
+2500,PRI,Puerto Rico,PRI.35_1,Hormigueros,NA,NA,Municipio,Municipality,NA,PR.HO,-,Puerto Rico (main island),NA
+2501,PRI,Puerto Rico,PRI.36_1,Humacao,NA,NA,Municipio,Municipality,NA,PR.HU,-,Puerto Rico (main island),NA
+2502,PRI,Puerto Rico,PRI.37_1,Isabela,NA,NA,Municipio,Municipality,NA,PR.IS,-,Puerto Rico (main island),NA
+2503,PRI,Puerto Rico,PRI.38_1,Jayuya,NA,NA,Municipio,Municipality,NA,PR.JY,NA,Puerto Rico (main island),NA
+2504,PRI,Puerto Rico,PRI.39_1,Juana Díaz,NA,NA,Municipio,Municipality,NA,PR.JD,NA,Puerto Rico (main island),NA
+2505,PRI,Puerto Rico,PRI.40_1,Juncos,NA,NA,Municipio,Municipality,NA,PR.JC,NA,Puerto Rico (main island),NA
+2506,PRI,Puerto Rico,PRI.41_1,Lajas,NA,NA,Municipio,Municipality,NA,PR.LJ,-,Puerto Rico (main island),NA
+2507,PRI,Puerto Rico,PRI.42_1,Lares,NA,NA,Municipio,Municipality,NA,PR.LR,-,Puerto Rico (main island),NA
+2508,PRI,Puerto Rico,PRI.43_1,Las Marías,NA,NA,Municipio,Municipality,NA,PR.LM,NA,Puerto Rico (main island),NA
+2509,PRI,Puerto Rico,PRI.44_1,Las Piedras,NA,NA,Municipio,Municipality,NA,PR.LP,-,Puerto Rico (main island),NA
+2510,PRI,Puerto Rico,PRI.45_1,Loíza,NA,NA,Municipio,Municipality,NA,PR.LZ,NA,Puerto Rico (main island),NA
+2511,PRI,Puerto Rico,PRI.46_1,Luquillo,NA,NA,Municipio,Municipality,NA,PR.LQ,-,Puerto Rico (main island),NA
+2512,PRI,Puerto Rico,PRI.47_1,Manatí,NA,NA,Municipio,Municipality,NA,PR.MT,NA,Puerto Rico (main island),NA
+2513,PRI,Puerto Rico,PRI.48_1,Maricao,NA,NA,Municipio,Municipality,NA,PR.MR,NA,Puerto Rico (main island),NA
+2514,PRI,Puerto Rico,PRI.49_1,Maunabo,NA,NA,Municipio,Municipality,NA,PR.MB,-,Puerto Rico (main island),NA
+2515,PRI,Puerto Rico,PRI.50_1,Mayagüez,NA,NA,Municipio,Municipality,NA,PR.MG,NA,Puerto Rico (main island),NA
+2516,PRI,Puerto Rico,PRI.51_1,Moca,NA,NA,Municipio,Municipality,NA,PR.MC,-,Puerto Rico (main island),NA
+2517,PRI,Puerto Rico,PRI.52_1,Morovis,NA,NA,Municipio,Municipality,NA,PR.MV,-,Puerto Rico (main island),NA
+2518,PRI,Puerto Rico,PRI.53_1,Naguabo,NA,NA,Municipio,Municipality,NA,PR.NG,-,Puerto Rico (main island),NA
+2519,PRI,Puerto Rico,PRI.54_1,Naranjito,NA,NA,Municipio,Municipality,NA,PR.NR,-,Puerto Rico (main island),NA
+2520,PRI,Puerto Rico,PRI.55_1,Orocovis,NA,NA,Municipio,Municipality,NA,PR.OR,NA,Puerto Rico (main island),NA
+2521,PRI,Puerto Rico,PRI.56_1,Patillas,NA,NA,Municipio,Municipality,NA,PR.PT,-,Puerto Rico (main island),NA
+2522,PRI,Puerto Rico,PRI.57_1,Peñuelas,NA,NA,Municipio,Municipality,NA,PR.PN,NA,Puerto Rico (main island),NA
+2523,PRI,Puerto Rico,PRI.58_1,Ponce,NA,NA,Municipio,Municipality,NA,PR.PO,-,Puerto Rico (main island),NA
+2524,PRI,Puerto Rico,PRI.59_1,Quebradillas,NA,NA,Municipio,Municipality,NA,PR.QB,-,Puerto Rico (main island),NA
+2525,PRI,Puerto Rico,PRI.60_1,Rincón,NA,NA,Municipio,Municipality,NA,PR.RC,NA,Puerto Rico (main island),NA
+2526,PRI,Puerto Rico,PRI.61_1,Río Grande,NA,NA,Municipio,Municipality,NA,PR.RG,NA,Puerto Rico (main island),NA
+2527,PRI,Puerto Rico,PRI.62_1,Sabana Grande,NA,NA,Municipio,Municipality,NA,PR.SB,-,Puerto Rico (main island),NA
+2528,PRI,Puerto Rico,PRI.63_1,Salinas,NA,NA,Municipio,Municipality,NA,PR.SA,-,Puerto Rico (main island),NA
+2529,PRI,Puerto Rico,PRI.64_1,San Germán,NA,NA,Municipio,Municipality,NA,PR.SG,NA,Puerto Rico (main island),NA
+2530,PRI,Puerto Rico,PRI.65_1,San Juan,NA,NA,Municipio|Senatorial District,Municipality,NA,PR.SJ,-,Puerto Rico (main island),NA
+2531,PRI,Puerto Rico,PRI.66_1,San Lorenzo,NA,NA,Municipio,Municipality,NA,PR.SL,-,Puerto Rico (main island),NA
+2532,PRI,Puerto Rico,PRI.67_1,San Sebastián,NA,NA,Municipio,Municipality,NA,PR.SS,NA,Puerto Rico (main island),NA
+2533,PRI,Puerto Rico,PRI.68_1,Santa Isabel,NA,NA,Municipio,Municipality,NA,PR.SI,NA,Puerto Rico (main island),NA
+2534,PRI,Puerto Rico,PRI.69_1,Toa Alta,NA,NA,Municipio,Municipality,NA,PR.TA,-,Puerto Rico (main island),NA
+2535,PRI,Puerto Rico,PRI.70_1,Toa Baja,NA,NA,Municipio,Municipality,NA,PR.TB,-,Puerto Rico (main island),NA
+2536,PRI,Puerto Rico,PRI.71_1,Trujillo Alto,NA,NA,Municipio,Municipality,NA,PR.TJ,-,Puerto Rico (main island),NA
+2537,PRI,Puerto Rico,PRI.72_1,Utuado,NA,NA,Municipio,Municipality,NA,PR.UT,-,Puerto Rico (main island),NA
+2538,PRI,Puerto Rico,PRI.73_1,Vega Alta,NA,NA,Municipio,Municipality,NA,PR.VA,-,Puerto Rico (main island),NA
+2539,PRI,Puerto Rico,PRI.74_1,Vega Baja,NA,NA,Municipio,Municipality,NA,PR.VB,-,Puerto Rico (main island),NA
+2540,PRI,Puerto Rico,PRI.75_1,Vieques,NA,NA,Municipio,Municipality,NA,PR.VQ,-,Puerto Rico (main island),NA
+2541,PRI,Puerto Rico,PRI.76_1,Villalba,NA,NA,Municipio,Municipality,NA,PR.VL,-,Puerto Rico (main island),NA
+2542,PRI,Puerto Rico,PRI.77_1,Yabucoa,NA,NA,Municipio,Municipality,NA,PR.YB,-,Puerto Rico (main island),NA
+2543,PRI,Puerto Rico,PRI.78_1,Yauco,NA,NA,Municipio,Municipality,NA,PR.YU,-,Puerto Rico (main island),NA
+2558,PRT,Portugal,PRT.1_1,Aveiro,NA,NA,Distrito,District,1,PT.AV,PT-01,Portugal (mainland),NA
+2559,PRT,Portugal,PRT.2_1,Azores,Açores,NA,Regiões autônoma,'Autonomous Region',NA,PT.AC,NA,Azores,NA
+2560,PRT,Portugal,PRT.3_1,Beja,NA,NA,Distrito,District,2,PT.BE,PT-02,Portugal (mainland),NA
+2561,PRT,Portugal,PRT.4_1,Braga,NA,NA,Distrito,District,3,PT.BR,PT-03,Portugal (mainland),NA
+2562,PRT,Portugal,PRT.5_1,Bragança,Braganza,NA,Distrito,District,4,PT.BA,NA,Portugal (mainland),NA
+2563,PRT,Portugal,PRT.6_1,Castelo Branco,NA,NA,Distrito,District,5,PT.CB,PT-05,Portugal (mainland),NA
+2564,PRT,Portugal,PRT.7_1,Coimbra,NA,NA,Distrito,District,6,PT.CO,PT-06,Portugal (mainland),NA
+2565,PRT,Portugal,PRT.8_1,Évora,NA,NA,Distrito,District,NA,PT.EV,NA,Portugal (mainland),NA
+2566,PRT,Portugal,PRT.9_1,Faro,NA,NA,Distrito,District,8,PT.FA,PT-08,Portugal (mainland),NA
+2567,PRT,Portugal,PRT.10_1,Guarda,NA,NA,Distrito,District,9,PT.GU,PT-09,Portugal (mainland),NA
+2568,PRT,Portugal,PRT.11_1,Leiria,NA,NA,Distrito,District,NA,PT.LE,PT-10,Portugal (mainland),NA
+2569,PRT,Portugal,PRT.12_1,Lisboa,Lisbon|Lisbona|Lisbonne|Lissabon,NA,Distrito,District,NA,PT.LI,PT-11,Portugal (mainland),NA
+2570,PRT,Portugal,PRT.13_1,Madeira,NA,NA,Regiões autônoma,'Autonomous Region',NA,NA,NA,Madeira,1
+2571,PRT,Portugal,PRT.14_1,Portalegre,NA,NA,Distrito,District,NA,PT.PA,PT-12,Portugal (mainland),NA
+2572,PRT,Portugal,PRT.15_1,Porto,Oporto,NA,Distrito,District,NA,PT.PO,PT-13,Portugal (mainland),NA
+2573,PRT,Portugal,PRT.16_1,Santarém,NA,NA,Distrito,District,NA,PT.SA,NA,Portugal (mainland),NA
+2574,PRT,Portugal,PRT.17_1,Setúbal,NA,NA,Distrito,District,NA,PT.SE,NA,Portugal (mainland),NA
+2575,PRT,Portugal,PRT.18_1,Viana do Castelo,Vianna do Castello,NA,Distrito,District,NA,PT.VC,PT-16,Portugal (mainland),NA
+2576,PRT,Portugal,PRT.19_1,Vila Real,Villa Real,NA,Distrito,District,NA,PT.VR,PT-17,Portugal (mainland),NA
+2577,PRT,Portugal,PRT.20_1,Viseu,Vizeu,NA,Distrito,District,NA,PT.VI,PT-18,Portugal (mainland),NA
+2598,PYF,French Polynesia,PYF.1_1,Îles Australes,Tuha'a Pae|Austral Islands|Archi,NA,Subdivisions administratives,Administrative subdivisions,NA,PF.TI,NA,Tubuai Is.,NA
+2599,PYF,French Polynesia,PYF.2_1,Îles du Vent,Windward Islands,NA,Subdivisions administratives,Administrative subdivisions,NA,PF.WI,NA,Society Is.,NA
+2600,PYF,French Polynesia,PYF.3_1,Îles Marquises,Marquises|Marquesas Islands,NA,Subdivisions administratives,Administrative subdivisions,NA,PF.MI,NA,Marquesas,NA
+2601,PYF,French Polynesia,PYF.4_1,Îles Sous-le-Vent,Leeward Islands,NA,Subdivisions administratives,Administrative subdivisions,NA,PF.LI,NA,Society Is.,NA
+2602,PYF,French Polynesia,PYF.5_1,Îles Tuamotu-Gambier,Tuāmotu-Gambier|Archipels des Tu,NA,Subdivisions administratives,Administrative subdivisions,NA,PF.TG,NA,Tuamotu,NA
+2656,RUS,Russia,RUS.1_1,Adygey,Adygea|Adygeya|Adygheya|Republic,Республика Адыгея,Respublika,Republic,NA,RU.AD,NA,European Russia,NA
+2657,RUS,Russia,RUS.2_1,Altay,Altayskiy Kray,Алтайский край,Kray,Territory,NA,RU.AL,NA,Eastern Asian Russia,NA
+2658,RUS,Russia,RUS.3_1,Amur,Amurskaya Oblast,Амурская область,Oblast,Region,NA,RU.AM,NA,Central Asian Russia,NA
+2659,RUS,Russia,RUS.4_1,Arkhangel'sk,Arcangelo|Archangel|Archangelsk|,Архангельская область,Oblast,Region,NA,RU.AR,NA,European Russia,NA
+2660,RUS,Russia,RUS.5_1,Astrakhan',Astrachan|Astrakhanskaya Oblast,Астраханская область,Oblast,Region,NA,RU.AS,NA,European Russia,NA
+2661,RUS,Russia,RUS.6_1,Bashkortostan,Bashkir|Bashkiriya|Bashkirskaya,Республика Башкортостан,Respublika,Republic,NA,RU.BK,NA,European Russia,NA
+2662,RUS,Russia,RUS.7_1,Belgorod,Belgorodskaya Oblast,Белгородская область,Oblast,Region,NA,RU.BL,NA,European Russia,NA
+2663,RUS,Russia,RUS.8_1,Bryansk,Bryanskaya Oblast,Брянская область,Oblast,Region,NA,RU.BR,NA,European Russia,NA
+2664,RUS,Russia,RUS.9_1,Buryat,Buryatiya|Buryat-Mongol A.S.S.R.,Республика Бурятия,Respublika,Republic,NA,RU.BU,NA,Central Asian Russia,NA
+2665,RUS,Russia,RUS.10_1,Chechnya,Cecenia|Chechenia|Chechênia|Tche,Республика Чечено-Ингушская,Respublika,Republic,NA,RU.CN,NA,European Russia,NA
+2666,RUS,Russia,RUS.11_1,Chelyabinsk,Chelyabinskaya Oblast,Челябинская область,Oblast,Region,NA,RU.CL,NA,European Russia,NA
+2667,RUS,Russia,RUS.12_1,Chukot,Chukotka|Chukotskiy Aok,Чукотский АОк,Avtonomnyy Okrug,Autonomous Province,7001,RU.CK,NA,Central Asian Russia,NA
+2668,RUS,Russia,RUS.13_1,Chuvash,Chuvashskaya A.S.S.R.|Chuvashska,Чувашская Республика,Respublika,Republic,NA,RU.CV,NA,European Russia,NA
+2669,RUS,Russia,RUS.14_1,City of St. Petersburg,Sankt-Peterburg gorsovet,Санкт-Петербург (горсовет),Gorsovet,City,601,RU.SP,NA,European Russia,NA
+2670,RUS,Russia,RUS.15_1,Dagestan,Dagestanskaya A.S.S.R.|Daghestan,Республика Дагестан,Respublika,Republic,NA,RU.DA,NA,European Russia,NA
+2671,RUS,Russia,RUS.16_1,Gorno-Altay,Gorno-Altayskaya A.Obl.|Respubli,Республика Алтай,Respublika,Republic,NA,RU.GA,NA,Eastern Asian Russia,NA
+2672,RUS,Russia,RUS.17_1,Ingush,Ingouchie|Inguchétia|Inguschetie,Респу́блика Ингуше́тия,Respublika,Republic,4201,RU.IN,NA,European Russia,NA
+2673,RUS,Russia,RUS.18_1,Irkutsk,Irkutskaya Oblast,Иркутская область,Oblast,Region,NA,RU.IK,NA,Central Asian Russia,NA
+2674,RUS,Russia,RUS.19_1,Ivanovo,Ivanovskaya Oblast,Ивановская область,Oblast,Region,NA,RU.IV,NA,European Russia,NA
+2675,RUS,Russia,RUS.20_1,Kabardin-Balkar,Kabardin A.S.S.R.|Kabardino-Balk,Кабардино-Балкарская Республика,Respublika,Republic,NA,RU.KB,NA,European Russia,NA
+2676,RUS,Russia,RUS.21_1,Kaliningrad,Kaliningradskaya Oblast,Калининградская область,Oblast,Region,NA,RU.KN,NA,European Russia,NA
+2677,RUS,Russia,RUS.22_1,Kalmyk,Kalmykiya|Khalmg Tangch|Republic,Республика Калмыкия,Respublika,Republic,NA,RU.KL,NA,European Russia,NA
+2678,RUS,Russia,RUS.23_1,Kaluga,Kaluzhskaya Oblast,Калужская область,Oblast,Region,NA,RU.KG,NA,European Russia,NA
+2679,RUS,Russia,RUS.24_1,Kamchatka,Kamçatka|Kamchatskaya Kray,Камчатская край,Kray,Territory,NA,RU.KQ,NA,Central Asian Russia,NA
+2680,RUS,Russia,RUS.25_1,Karachay-Cherkess,Karaçay-Çerkes|Karachay-Cherkess,Карачаево-Черкессия Республика,Respublika,Republic,NA,RU.KC,NA,European Russia,NA
+2681,RUS,Russia,RUS.26_1,Karelia,Karelian A.S.S.R.|Karelo-Finnish,Республика Карелия,Respublika,Republic,NA,RU.KI,NA,European Russia,NA
+2682,RUS,Russia,RUS.27_1,Kemerovo,Kemerovskaya Oblast,Кемеровская область,Oblast,Region,NA,RU.KE,NA,Eastern Asian Russia,NA
+2683,RUS,Russia,RUS.28_1,Khabarovsk,Khabarovskiy Kray,Хабаровский край,Kray,Territory,NA,RU.KH,NA,Central Asian Russia,NA
+2684,RUS,Russia,RUS.29_1,Khakass,Khakassiya|Republic of Khakasia|,Республика Хакасия,Respublika,Republic,NA,RU.KK,NA,Eastern Asian Russia,NA
+2685,RUS,Russia,RUS.30_1,Khanty-Mansiy,Khanty-Mansiysk|Khanty-Mansiyski,Ханты-Мансийский АОк,Avtonomnyy Okrug,Autonomous Province,NA,RU.KM,NA,Eastern Asian Russia,NA
+2686,RUS,Russia,RUS.31_1,Kirov,Vyatka|Vyatskaya G.|Kirovskaya O,Кировская область,Oblast,Region,NA,RU.KV,NA,European Russia,NA
+2687,RUS,Russia,RUS.32_1,Komi,Komi A.S.S.R.|Republic of Komi|R,Республика Коми,Respublika,Republic,NA,RU.KO,NA,European Russia,NA
+2688,RUS,Russia,RUS.33_1,Kostroma,Kostromskaya Oblast,Костромская область,Oblast,Region,NA,RU.KT,NA,European Russia,NA
+2689,RUS,Russia,RUS.34_1,Krasnodar,Cossacks of the Black Sea|Kuban|,Краснодарский край,Kray,Territory,NA,RU.KD,NA,European Russia,NA
+2690,RUS,Russia,RUS.35_1,Krasnoyarsk,Krasnoyarskiy Kray|Yeniseisk|Yen,Красноярский край,Kray,Territory,6209,RU.KX,NA,Central Asian Russia,NA
+2691,RUS,Russia,RUS.36_1,Kurgan,Kurganskaya Oblast,Курганская область,Oblast,Region,NA,RU.KU,NA,Eastern Asian Russia,NA
+2692,RUS,Russia,RUS.37_1,Kursk,Kurskaya Oblast,Курская область,Oblast,Region,NA,RU.KS,NA,European Russia,NA
+2693,RUS,Russia,RUS.38_1,Leningrad,Saint Petersburg|Sankt-Peterburg,Ленинградская область,Oblast,Region,NA,RU.LN,NA,European Russia,NA
+2694,RUS,Russia,RUS.39_1,Lipetsk,Lipetskaya Oblast,Липецкая область,Oblast,Region,NA,RU.LP,NA,European Russia,NA
+2695,RUS,Russia,RUS.40_1,Magadan,Magadanskaya Oblast|Maga Buryatd,Магадан|Магаданская область,Oblast,Region,7009,RU.MG,NA,Central Asian Russia,NA
+2696,RUS,Russia,RUS.41_1,Mariy-El,Mari|Mari-El|Republic of Mari El,Республика Марий Эл,Respublika,Republic,NA,RU.ME,NA,European Russia,NA
+2697,RUS,Russia,RUS.42_1,Mordovia,Mordov|Mordvian Autonomous Repub,Республика Мордовия,Respublika,Republic,NA,RU.MR,NA,European Russia,NA
+2698,RUS,Russia,RUS.43_1,Moscow City,NA,NA,Gorod,City,NA,NA,NA,European Russia,NA
+2699,RUS,Russia,RUS.44_1,Moskva,Mosca|Moscou|Moscow|Moskau|Mosko,Московская область,Oblast,Region,NA,RU.MS,RU-MOW,European Russia,NA
+2700,RUS,Russia,RUS.45_1,Murmansk,Murmanskaya Oblast,Мурманская область,Oblast,Region,NA,RU.MM,NA,European Russia,NA
+2701,RUS,Russia,RUS.46_1,Nenets,Nenetskiy A.Okr.|Nenetskiy Aok,Ненецкий АОк,Avtonomnyy Okrug,Autonomous Province,NA,RU.NN,NA,European Russia,NA
+2702,RUS,Russia,RUS.47_1,Nizhegorod,Gor'kiy|Gor'kovskaya|Gorky|Nizhe,Нижегородская область,Oblast,Region,NA,RU.NZ,NA,European Russia,NA
+2703,RUS,Russia,RUS.48_1,North Ossetia,Kuzey Osetya|Respublika Severnay,Республика Северная Осетия-Алани,Respublika,Republic,NA,RU.NO,NA,European Russia,NA
+2704,RUS,Russia,RUS.49_1,Novgorod,Novgorodskaya Oblast,Новгородская область,Oblast,Region,NA,RU.NG,NA,European Russia,NA
+2705,RUS,Russia,RUS.50_1,Novosibirsk,Novosibirskaya Oblast,Новосибирская область,Oblast,Region,NA,RU.NS,NA,Eastern Asian Russia,NA
+2706,RUS,Russia,RUS.51_1,Omsk,Omskaya Oblast,Омская область,Oblast,Region,NA,RU.OM,NA,Eastern Asian Russia,NA
+2707,RUS,Russia,RUS.52_1,Orel,Orlovskaya|Or'ol|Oryol|Orlovskay,Орловская область,Oblast,Region,NA,RU.OL,NA,European Russia,NA
+2708,RUS,Russia,RUS.53_1,Orenburg,Chkalov|Orenburgskaya|Orenburgsk,Оренбургская область,Oblast,Region,NA,RU.OB,NA,European Russia,NA
+2709,RUS,Russia,RUS.54_1,Penza,Penzenskaya Oblast,Пензенская область,Oblast,Region,NA,RU.PZ,NA,European Russia,NA
+2710,RUS,Russia,RUS.55_1,Perm',Molotov|Permskaya,Пермская край,Kray,Territory,NA,RU.PE,NA,European Russia,NA
+2711,RUS,Russia,RUS.56_1,Primor'ye,Küsten-Gebiet|Maritime Territory,Приморский край,Kray,Territory,NA,RU.PR,NA,Central Asian Russia,NA
+2712,RUS,Russia,RUS.57_1,Pskov,Pskovskaya Oblast,Псковская область,Oblast,Region,NA,RU.PS,NA,European Russia,NA
+2713,RUS,Russia,RUS.58_1,Rostov,Province of the Don Cossacks|Pro,Ростовская область,Oblast,Region,NA,RU.RO,NA,European Russia,NA
+2714,RUS,Russia,RUS.59_1,Ryazan',Ryazanskaya Oblast|Ryazanskaya O,Рязанская область,Oblast,Region,NA,RU.RZ,NA,European Russia,NA
+2715,RUS,Russia,RUS.60_1,Sakha,Republic of Sakha|Yakutia-Sakha|,Республика Саха,Respublika,Republic,NA,RU.SK,NA,Central Asian Russia,NA
+2716,RUS,Russia,RUS.61_1,Sakhalin,Sakhalinskaya Oblast,Сахалинская область,Oblast,Region,NA,RU.SL,NA,Central Asian Russia,NA
+2717,RUS,Russia,RUS.62_1,Samara,Kuybyshev|Kuybyshevskaya|Samarsk,Самарская область,Oblast,Region,NA,RU.SA,NA,European Russia,NA
+2718,RUS,Russia,RUS.63_1,Saratov,Saratovskaya Oblast,Саратовская область,Oblast,Region,NA,RU.SR,NA,European Russia,NA
+2719,RUS,Russia,RUS.64_1,Smolensk,Smolenskaya Oblast,Смоленская область,Oblast,Region,NA,RU.SM,NA,European Russia,NA
+2720,RUS,Russia,RUS.65_1,Stavropol',Stavropol'skiy Kray|Stavropolski,Ставропольский край,Kray,Territory,NA,RU.ST,NA,European Russia,NA
+2721,RUS,Russia,RUS.66_1,Sverdlovsk,Yekaterinburg|Sverdlovskaya Obla,Свердловская область,Oblast,Region,NA,RU.SV,NA,Eastern Asian Russia,NA
+2722,RUS,Russia,RUS.67_1,Tambov,Tambovskaya Oblast,Тамбовская область,Oblast,Region,NA,RU.TB,NA,European Russia,NA
+2723,RUS,Russia,RUS.68_1,Tatarstan,Kazan|Kazanskaya G.|Tatar A.S.S.,Республика Татарстан,Respublika,Republic,NA,RU.TT,NA,European Russia,NA
+2724,RUS,Russia,RUS.69_1,Tomsk,Tomskaya Oblast,Томская область,Oblast,Region,NA,RU.TO,NA,Eastern Asian Russia,NA
+2725,RUS,Russia,RUS.70_1,Tula,Tul'skaya|Tulskaya Oblast,Тульская область,Oblast,Region,NA,RU.TL,NA,European Russia,NA
+2726,RUS,Russia,RUS.71_1,Tuva,Respublika Tyva|Republic of Tuva,Республика Тыва,Respublika,Republic,NA,RU.TU,NA,Central Asian Russia,NA
+2727,RUS,Russia,RUS.72_1,Tver',Kalinin|Kalininskaya|Tverskaya O,Тверская область,Oblast,Region,NA,RU.TV,NA,European Russia,NA
+2728,RUS,Russia,RUS.73_1,Tyumen',Tobol'sk|Tobol'skaya G.|Tyumensk,Тюменская область,Oblast,Region,NA,RU.TY,NA,Eastern Asian Russia,NA
+2729,RUS,Russia,RUS.74_1,Udmurt,Udmurtiya|Udmurt Republic|Udmurt,Удмуртская Республика,Respublika,Republic,NA,RU.UD,NA,European Russia,NA
+2730,RUS,Russia,RUS.75_1,Ul'yanovsk,Simbirsk|Simbirskaya G.|Ul'yanov,Ульяновская область,Oblast,Region,NA,RU.UL,NA,European Russia,NA
+2731,RUS,Russia,RUS.76_1,Vladimir,Vladimirskaya Oblast,Владимирская область,Oblast,Region,NA,RU.VL,NA,European Russia,NA
+2732,RUS,Russia,RUS.77_1,Volgograd,Stalingrad|Volgogradskaya Oblast,Волгоградская область,Oblast,Region,NA,RU.VG,NA,European Russia,NA
+2733,RUS,Russia,RUS.78_1,Vologda,Vologodskaya Oblast,Вологодская область,Oblast,Region,NA,RU.VO,NA,European Russia,NA
+2734,RUS,Russia,RUS.79_1,Voronezh,Voronezhskaya Oblast,Воронежская область,Oblast,Region,NA,RU.VR,NA,European Russia,NA
+2735,RUS,Russia,RUS.80_1,Yamal-Nenets,Yamalo-Nenetskiy A. Okrug,Ямало-Ненецкий АОк,Avtonomnyy Okrug,Autonomous Province,NA,RU.YN,NA,Eastern Asian Russia,NA
+2736,RUS,Russia,RUS.81_1,Yaroslavl',Yaroslavskaya,Ярославская область,Oblast,Region,NA,RU.YS,NA,European Russia,NA
+2737,RUS,Russia,RUS.82_1,Yevrey,Den jødiske autonome oblasten|Ev,Eврейская АОб,Avtonomnaya Oblast,Autonomous Region,6701,RU.YV,NA,Central Asian Russia,NA
+2738,RUS,Russia,RUS.83_1,Zabaykal'ye,Zabaykalsky,Забайкальский край,Kray,Territory,NA,RU.ZB,NA,Central Asian Russia,NA
+2799,SLB,Solomon Islands,SLB.1_1,Central,NA,NA,Province,Province,NA,SB.CN,NA,South Solomons,NA
+2800,SLB,Solomon Islands,SLB.2_1,Choiseul,Lauru,NA,Province,Province,NA,SB.CH,SB-CH,South Solomons,NA
+2801,SLB,Solomon Islands,SLB.3_1,Guadalcanal,NA,NA,Province,Province,NA,SB.GU,SB-GU,South Solomons,NA
+2802,SLB,Solomon Islands,SLB.4_1,Honiara,Capital Territory,NA,Capital Territory,Capital Territory,NA,SB.CT,NA,South Solomons,NA
+2803,SLB,Solomon Islands,SLB.5_1,Isabel,NA,NA,Province,Province,NA,SB.IS,NA,South Solomons,NA
+2804,SLB,Solomon Islands,SLB.6_1,Makira Ulawa,Makira and Ulawa,NA,Province,Province,NA,SB.MK,NA,South Solomons,NA
+2805,SLB,Solomon Islands,SLB.7_1,Malaita,NA,NA,Province,Province,NA,SB.ML,NA,South Solomons,NA
+2806,SLB,Solomon Islands,SLB.8_1,Rennell and Bellona,NA,NA,Province,Province,NA,SB.RB,NA,South Solomons,NA
+2807,SLB,Solomon Islands,SLB.9_1,Temotu,Eastern Islands,NA,Province,Province,NA,SB.TE,NA,Santa Cruz Is.,NA
+2808,SLB,Solomon Islands,SLB.10_1,Western,NA,NA,Province,Province,NA,SB.WE,SB-WE,South Solomons,NA
+2856,SRB,Serbia,SRB.1_1,Borski,Bor,Борски,Okrug,District,NA,RS.BO,NA,Serbia,NA
+2857,SRB,Serbia,SRB.2_1,Braničevski,Braničevo,Браничевски,Okrug,District,NA,RS.BR,NA,Serbia,NA
+2858,SRB,Serbia,SRB.3_1,Grad Beograd,Belgrade,Београд,Grad,City,NA,RS.BG,NA,Serbia,NA
+2859,SRB,Serbia,SRB.4_1,Jablanički,Jablanica,Јабланички,Okrug,District,NA,RS.JA,NA,Serbia,NA
+2860,SRB,Serbia,SRB.5_1,Južno-Bački,South Bačka,Јужнобачки,Okrug,District,NA,RS.JC,NA,Serbia,NA
+2861,SRB,Serbia,SRB.6_1,Južno-Banatski,South Banat,Јужнобанатски,Okrug,District,NA,RS.JN,NA,Serbia,NA
+2862,SRB,Serbia,SRB.7_1,Kolubarski,Kolubara,Колубарски,Okrug,District,NA,RS.KB,NA,Serbia,NA
+2863,SRB,Serbia,SRB.8_1,Mačvanski,Mačva,Мачвански,Okrug,District,NA,RS.MA,NA,Serbia,NA
+2864,SRB,Serbia,SRB.9_1,Moravički,Moravica|Morava,Моравички,Okrug,District,NA,RS.MR,NA,Serbia,NA
+2865,SRB,Serbia,SRB.10_1,Nišavski,Nišava,Нишавски,Okrug,District,NA,RS.NS,NA,Serbia,NA
+2866,SRB,Serbia,SRB.11_1,Pčinjski,Pčinja,Пчињски,Okrug,District,NA,RS.PC,NA,Serbia,NA
+2867,SRB,Serbia,SRB.12_1,Pirotski,Pirot,Пиротски,Okrug,District,NA,RS.PI,NA,Serbia,NA
+2868,SRB,Serbia,SRB.13_1,Podunavski,Podunavlje|Danube,Подунавски,Okrug,District,NA,RS.PD,NA,Serbia,NA
+2869,SRB,Serbia,SRB.14_1,Pomoravski,Pomoravlje,Поморавски,Okrug,District,NA,RS.PM,NA,Serbia,NA
+2870,SRB,Serbia,SRB.15_1,Rasinski,Rasina,Расински,Okrug,District,NA,RS.RN,NA,Serbia,NA
+2871,SRB,Serbia,SRB.16_1,Raški,Raška,Рашки,Okrug,District,NA,RS.RS,NA,Serbia,NA
+2872,SRB,Serbia,SRB.17_1,Severno-Bački,North Bačka,Севернобачки,Okrug,District,NA,RS.SC,NA,Serbia,NA
+2873,SRB,Serbia,SRB.18_1,Severno-Banatski,North Banat,Севернобанатски,Okrug,District,NA,RS.SN,NA,Serbia,NA
+2874,SRB,Serbia,SRB.19_1,Srednje-Banatski,Central Banat,Средњебанатски,Okrug,District,NA,RS.SD,NA,Serbia,NA
+2875,SRB,Serbia,SRB.20_1,Sremski,Srem,Сремски,Okrug,District,NA,RS.SM,NA,Serbia,NA
+2876,SRB,Serbia,SRB.21_1,Šumadijski,Šumadija,Шумадијски,Okrug,District,NA,RS.SU,NA,Serbia,NA
+2877,SRB,Serbia,SRB.22_1,Toplički,Toplica,Топлички,Okrug,District,NA,RS.TO,NA,Serbia,NA
+2878,SRB,Serbia,SRB.23_1,Zaječarski,Zaječar,Зајечарски,Okrug,District,NA,RS.ZJ,NA,Serbia,NA
+2879,SRB,Serbia,SRB.24_1,Zapadno-Bački,West Bačka,Западнобачки,Okrug,District,NA,RS.ZC,NA,Serbia,NA
+2880,SRB,Serbia,SRB.25_1,Zlatiborski,Zlatibor,Златиборски,Okrug,District,NA,RS.ZL,NA,Serbia,NA
+2891,STP,São Tomé and Príncipe,STP.1_1,Príncipe,NA,NA,Concelho,Municipality,NA,ST.PR,NA,Principe,NA
+2892,STP,São Tomé and Príncipe,STP.2_1,São Tomé,NA,NA,Concelho,Municipality,NA,ST.ST,NA,S�o Tom�,NA
+2948,SYC,Seychelles,SYC.1_1,Anse aux Pins,NA,NA,District,District,NA,SC.PI,SC-01,Seychelles (main island group),NA
+2949,SYC,Seychelles,SYC.2_1,Anse Boileau,NA,NA,District,District,NA,SC.AB,SC-02,Seychelles (main island group),NA
+2950,SYC,Seychelles,SYC.3_1,Anse Étoile,NA,NA,District,District,NA,SC.ET,NA,Seychelles (main island group),NA
+2951,SYC,Seychelles,SYC.4_1,Anse Royale,NA,NA,District,District,NA,SC.RO,SC-05,Seychelles (main island group),NA
+2952,SYC,Seychelles,SYC.5_1,Au Cap,NA,NA,District,District,NA,SC.LO,NA,Seychelles (main island group),NA
+2953,SYC,Seychelles,SYC.6_1,Baie Lazare,NA,NA,District,District,NA,SC.BL,SC-06,Seychelles (main island group),NA
+2954,SYC,Seychelles,SYC.7_1,Baie Sainte Anne,NA,NA,District,District,NA,SC.BS,SC-07,Seychelles (main island group),NA
+2955,SYC,Seychelles,SYC.8_1,Beau Vallon,NA,NA,District,District,NA,SC.BV,SC-08,Seychelles (main island group),NA
+2956,SYC,Seychelles,SYC.9_1,Bel Air,NA,NA,District,District,NA,SC.BA,NA,Seychelles (main island group),NA
+2957,SYC,Seychelles,SYC.10_1,Belombre,NA,NA,District,District,NA,SC.BO,NA,Seychelles (main island group),NA
+2958,SYC,Seychelles,SYC.11_1,Cascade,NA,NA,District,District,NA,SC.CA,SC-11,Seychelles (main island group),NA
+2959,SYC,Seychelles,SYC.12_1,English River,NA,NA,District,District,NA,SC.RA,SC-16,Seychelles (main island group),NA
+2960,SYC,Seychelles,SYC.13_1,Glacis,NA,NA,District,District,NA,SC.GL,NA,Seychelles (main island group),NA
+2961,SYC,Seychelles,SYC.14_1,Grand' Anse,NA,NA,District,District,NA,SC.GM,NA,Seychelles (main island group),NA
+2962,SYC,Seychelles,SYC.15_1,Grand'Anse Praslin,NA,NA,District,District,NA,SC.GP,NA,Seychelles (main island group),NA
+2963,SYC,Seychelles,SYC.16_1,La Digue and Inner Islands,NA,NA,District,District,NA,SC.DI,NA,Seychelles (main island group),NA
+2964,SYC,Seychelles,SYC.17_1,Les Mamelles,NA,NA,District,District,NA,SC.LM,NA,Seychelles (main island group),NA
+2965,SYC,Seychelles,SYC.18_1,Mont Buxton,NA,NA,District,District,NA,SC.MB,NA,Seychelles (main island group),NA
+2966,SYC,Seychelles,SYC.19_1,Mont Fleuri,NA,NA,District,District,NA,SC.MF,NA,Seychelles (main island group),NA
+2967,SYC,Seychelles,SYC.20_1,Outer Islands,NA,NA,Outer Islands,Outer Islands,NA,SC.OI,NA,Seychelles (main island group),1
+2968,SYC,Seychelles,SYC.21_1,Plaisance,NA,NA,District,District,NA,SC.PL,NA,Seychelles (main island group),NA
+2969,SYC,Seychelles,SYC.22_1,Pointe La Rue,NA,NA,District,District,NA,SC.PR,NA,Seychelles (main island group),NA
+2970,SYC,Seychelles,SYC.23_1,Port Glaud,NA,NA,District,District,NA,SC.PG,NA,Seychelles (main island group),NA
+2971,SYC,Seychelles,SYC.24_1,Roche Caïman,NA,NA,District,District,NA,SC.RC,NA,Seychelles (main island group),NA
+2972,SYC,Seychelles,SYC.25_1,Saint Louis,NA,NA,District,District,NA,SC.SL,NA,Seychelles (main island group),NA
+2973,SYC,Seychelles,SYC.26_1,Takamaka,NA,NA,District,District,NA,SC.TA,SC-23,Seychelles (main island group),NA
+3170,TUR,Turkey,TUR.1_1,Adana,Seyhan,NA,Il,Province,NA,TR.AA,TR-01,T�rkiye-in-Asia,NA
+3171,TUR,Turkey,TUR.2_1,Adiyaman,Adıyaman,NA,Il,Province,NA,TR.AD,TR-02,T�rkiye-in-Asia,NA
+3172,TUR,Turkey,TUR.3_1,Afyon,Afyonkarahisar,NA,Il,Province,NA,TR.AF,NA,T�rkiye-in-Asia,NA
+3173,TUR,Turkey,TUR.4_1,Agri,Ağri|Karaköse,NA,Il,Province,NA,TR.AG,TR-04,T�rkiye-in-Asia,NA
+3174,TUR,Turkey,TUR.5_1,Aksaray,NA,NA,Il,Province,NA,TR.AK,TR-68,T�rkiye-in-Asia,NA
+3175,TUR,Turkey,TUR.6_1,Amasya,NA,NA,Il,Province,NA,TR.AM,TR-05,T�rkiye-in-Asia,NA
+3176,TUR,Turkey,TUR.7_1,Ankara,Ancara|Angora,NA,Il,Province,NA,TR.AN,TR-06,T�rkiye-in-Asia,NA
+3177,TUR,Turkey,TUR.8_1,Antalya,Adalia|Anatolia,NA,Il,Province,NA,TR.AL,TR-07,T�rkiye-in-Asia,NA
+3178,TUR,Turkey,TUR.9_1,Ardahan,NA,NA,Il,Province,NA,TR.AR,TR-75,T�rkiye-in-Asia,NA
+3179,TUR,Turkey,TUR.10_1,Artvin,Çoruh,NA,Il,Province,NA,TR.AV,TR-08,T�rkiye-in-Asia,NA
+3180,TUR,Turkey,TUR.11_1,Aydin,Aydın,NA,Il,Province,NA,TR.AY,TR-09,T�rkiye-in-Asia,NA
+3181,TUR,Turkey,TUR.12_1,Balikesir,Balıkesir|Balikisri,NA,Il,Province,NA,TR.BK,TR-10,T�rkiye-in-Asia,NA
+3182,TUR,Turkey,TUR.13_1,Bartın,NA,NA,Il,Province,NA,TR.BR,NA,T�rkiye-in-Asia,NA
+3183,TUR,Turkey,TUR.14_1,Batman,NA,NA,Il,Province,NA,TR.BM,TR-72,T�rkiye-in-Asia,NA
+3184,TUR,Turkey,TUR.15_1,Bayburt,NA,NA,Il,Province,NA,TR.BB,TR-69,T�rkiye-in-Asia,NA
+3185,TUR,Turkey,TUR.16_1,Bilecik,NA,NA,Il,Province,NA,TR.BC,TR-11,T�rkiye-in-Asia,NA
+3186,TUR,Turkey,TUR.17_1,Bingöl,Çapakçur,NA,Il,Province,NA,TR.BG,NA,T�rkiye-in-Asia,NA
+3187,TUR,Turkey,TUR.18_1,Bitlis,NA,NA,Il,Province,NA,TR.BT,TR-13,T�rkiye-in-Asia,NA
+3188,TUR,Turkey,TUR.19_1,Bolu,NA,NA,Il,Province,NA,TR.BL,TR-14,T�rkiye-in-Asia,NA
+3189,TUR,Turkey,TUR.20_1,Burdur,NA,NA,Il,Province,NA,TR.BD,TR-15,T�rkiye-in-Asia,NA
+3190,TUR,Turkey,TUR.21_1,Bursa,Burssa|Brusa|Brussa|Brousse,NA,Il,Province,NA,TR.BU,TR-16,T�rkiye-in-Asia,NA
+3191,TUR,Turkey,TUR.22_1,Çanakkale,NA,NA,Il,Province,NA,TR.CK,NA,T�rkiye-in-Asia,NA
+3192,TUR,Turkey,TUR.23_1,Çankiri,Çankırı|Changra,NA,Il,Province,NA,TR.CI,NA,T�rkiye-in-Asia,NA
+3193,TUR,Turkey,TUR.24_1,Çorum,NA,NA,Il,Province,NA,TR.CM,NA,T�rkiye-in-Asia,NA
+3194,TUR,Turkey,TUR.25_1,Denizli,NA,NA,Il,Province,NA,TR.DN,TR-20,T�rkiye-in-Asia,NA
+3195,TUR,Turkey,TUR.26_1,Diyarbakir,Diyarbakır,NA,Il,Province,NA,TR.DY,TR-21,T�rkiye-in-Asia,NA
+3196,TUR,Turkey,TUR.27_1,Düzce,NA,NA,Il,Province,NA,TR.DU,NA,T�rkiye-in-Asia,NA
+3197,TUR,Turkey,TUR.28_1,Edirne,Adrianople|Adrianopel,NA,Il,Province,NA,TR.ED,TR-22,T�rkiye-in-Europe,NA
+3198,TUR,Turkey,TUR.29_1,Elazığ,Elazig,NA,Il,Province,NA,TR.EG,NA,T�rkiye-in-Asia,NA
+3199,TUR,Turkey,TUR.30_1,Erzincan,NA,NA,Il,Province,NA,TR.EN,TR-24,T�rkiye-in-Asia,NA
+3200,TUR,Turkey,TUR.31_1,Erzurum,NA,NA,Il,Province,NA,TR.EM,TR-25,T�rkiye-in-Asia,NA
+3201,TUR,Turkey,TUR.32_1,Eskisehir,Eskişehir,NA,Il,Province,NA,TR.ES,TR-26,T�rkiye-in-Asia,NA
+3202,TUR,Turkey,TUR.33_1,Gaziantep,NA,NA,Il,Province,NA,TR.GA,TR-27,T�rkiye-in-Asia,NA
+3203,TUR,Turkey,TUR.34_1,Giresun,Kerasund,NA,Il,Province,NA,TR.GI,TR-28,T�rkiye-in-Asia,NA
+3204,TUR,Turkey,TUR.35_1,Gümüshane,Gümüşhane,NA,Il,Province,NA,TR.GU,NA,T�rkiye-in-Asia,NA
+3205,TUR,Turkey,TUR.36_1,Hakkari,NA,NA,Il,Province,NA,TR.HK,TR-30,T�rkiye-in-Asia,NA
+3206,TUR,Turkey,TUR.37_1,Hatay,NA,NA,Il,Province,NA,TR.HT,TR-31,T�rkiye-in-Asia,NA
+3207,TUR,Turkey,TUR.38_1,Iğdır,NA,NA,Il,Province,NA,TR.IG,NA,T�rkiye-in-Asia,NA
+3208,TUR,Turkey,TUR.39_1,Isparta,NA,NA,Il,Province,NA,TR.IP,TR-32,T�rkiye-in-Asia,NA
+3209,TUR,Turkey,TUR.40_1,Istanbul,İstanbul|Constantinople|Estambul,NA,Il,Province,NA,TR.IB,TR-34,T�rkiye-in-Europe,NA
+3210,TUR,Turkey,TUR.41_1,Izmir,İzmir|Esmirna|Smirne|Smyrna,NA,Il,Province,NA,TR.IZ,TR-35,T�rkiye-in-Asia,NA
+3211,TUR,Turkey,TUR.42_1,K. Maras,Kahramanmaraş,NA,Il,Province,NA,TR.KM,NA,T�rkiye-in-Asia,NA
+3212,TUR,Turkey,TUR.43_1,Karabük,NA,NA,Il,Province,NA,TR.KB,NA,T�rkiye-in-Asia,NA
+3213,TUR,Turkey,TUR.44_1,Karaman,NA,NA,Il,Province,NA,TR.KR,TR-70,T�rkiye-in-Asia,NA
+3214,TUR,Turkey,TUR.45_1,Kars,NA,NA,Il,Province,NA,TR.KA,TR-36,T�rkiye-in-Asia,NA
+3215,TUR,Turkey,TUR.46_1,Kastamonu,NA,NA,Il,Province,NA,TR.KS,TR-37,T�rkiye-in-Asia,NA
+3216,TUR,Turkey,TUR.47_1,Kayseri,NA,NA,Il,Province,NA,TR.KY,TR-38,T�rkiye-in-Asia,NA
+3217,TUR,Turkey,TUR.48_1,Kilis,NA,NA,Il,Province,NA,TR.KI,TR-79,T�rkiye-in-Asia,NA
+3218,TUR,Turkey,TUR.49_1,Kinkkale,Kırıkkale,NA,Il,Province,NA,TR.KK,NA,T�rkiye-in-Asia,NA
+3219,TUR,Turkey,TUR.50_1,Kirklareli,Kırklareli,NA,Il,Province,NA,TR.KL,TR-39,T�rkiye-in-Europe,NA
+3220,TUR,Turkey,TUR.51_1,Kirsehir,Kırşehir,NA,Il,Province,NA,TR.KH,TR-40,T�rkiye-in-Asia,NA
+3221,TUR,Turkey,TUR.52_1,Kocaeli,İzmit,NA,Il,Province,NA,TR.KC,TR-41,T�rkiye-in-Asia,NA
+3222,TUR,Turkey,TUR.53_1,Konya,Konieh|Kunja,NA,Il,Province,NA,TR.KO,TR-42,T�rkiye-in-Asia,NA
+3223,TUR,Turkey,TUR.54_1,Kütahya,Kütanya,NA,Il,Province,NA,TR.KU,NA,T�rkiye-in-Asia,NA
+3224,TUR,Turkey,TUR.55_1,Malatya,NA,NA,Il,Province,NA,TR.ML,TR-44,T�rkiye-in-Asia,NA
+3225,TUR,Turkey,TUR.56_1,Manisa,NA,NA,Il,Province,NA,TR.MN,TR-45,T�rkiye-in-Asia,NA
+3226,TUR,Turkey,TUR.57_1,Mardin,NA,NA,Il,Province,NA,TR.MR,TR-47,T�rkiye-in-Asia,NA
+3227,TUR,Turkey,TUR.58_1,Mersin,İçel,NA,Il,Province,NA,TR.IC,TR-33,T�rkiye-in-Asia,NA
+3228,TUR,Turkey,TUR.59_1,Mugla,Muğla,NA,Il,Province,NA,TR.MG,TR-48,T�rkiye-in-Asia,NA
+3229,TUR,Turkey,TUR.60_1,Mus,Muş,NA,Il,Province,NA,TR.MS,TR-49,T�rkiye-in-Asia,NA
+3230,TUR,Turkey,TUR.61_1,Nevsehir,Nevşehir,NA,Il,Province,NA,TR.NV,TR-50,T�rkiye-in-Asia,NA
+3231,TUR,Turkey,TUR.62_1,Nigde,Niğde,NA,Il,Province,NA,TR.NG,TR-51,T�rkiye-in-Asia,NA
+3232,TUR,Turkey,TUR.63_1,Ordu,NA,NA,Il,Province,NA,TR.OR,TR-52,T�rkiye-in-Asia,NA
+3233,TUR,Turkey,TUR.64_1,Osmaniye,NA,NA,Il,Province,NA,TR.OS,TR-80,T�rkiye-in-Asia,NA
+3234,TUR,Turkey,TUR.65_1,Rize,NA,NA,Il,Province,NA,TR.RI,TR-53,T�rkiye-in-Asia,NA
+3235,TUR,Turkey,TUR.66_1,Sakarya,NA,NA,Il,Province,NA,TR.SK,TR-54,T�rkiye-in-Asia,NA
+3236,TUR,Turkey,TUR.67_1,Samsun,NA,NA,Il,Province,NA,TR.SS,TR-55,T�rkiye-in-Asia,NA
+3237,TUR,Turkey,TUR.68_1,Sanliurfa,Şanlıurfa|Urfa,NA,Il,Province,NA,TR.SU,TR-63,T�rkiye-in-Asia,NA
+3238,TUR,Turkey,TUR.69_1,Siirt,NA,NA,Il,Province,NA,TR.SI,TR-56,T�rkiye-in-Asia,NA
+3239,TUR,Turkey,TUR.70_1,Sinop,NA,NA,Il,Province,NA,TR.SP,TR-57,T�rkiye-in-Asia,NA
+3240,TUR,Turkey,TUR.71_1,Sirnak,Şırnak,NA,Il,Province,NA,TR.SR,TR-73,T�rkiye-in-Asia,NA
+3241,TUR,Turkey,TUR.72_1,Sivas,NA,NA,Il,Province,NA,TR.SV,TR-58,T�rkiye-in-Asia,NA
+3242,TUR,Turkey,TUR.73_1,Tekirdag,Tekirdağ,NA,Il,Province,NA,TR.TG,TR-59,T�rkiye-in-Europe,NA
+3243,TUR,Turkey,TUR.74_1,Tokat,NA,NA,Il,Province,NA,TR.TT,TR-60,T�rkiye-in-Asia,NA
+3244,TUR,Turkey,TUR.75_1,Trabzon,Trapezunt|Trebizond|Trebizonda|T,NA,Il,Province,NA,TR.TB,TR-61,T�rkiye-in-Asia,NA
+3245,TUR,Turkey,TUR.76_1,Tunceli,NA,NA,Il,Province,NA,TR.TC,TR-62,T�rkiye-in-Asia,NA
+3246,TUR,Turkey,TUR.77_1,Usak,Uşak,NA,Il,Province,NA,TR.US,TR-64,T�rkiye-in-Asia,NA
+3247,TUR,Turkey,TUR.78_1,Van,NA,NA,Il,Province,NA,TR.VA,TR-65,T�rkiye-in-Asia,NA
+3248,TUR,Turkey,TUR.79_1,Yalova,NA,NA,Il,Province,NA,TR.YL,TR-77,T�rkiye-in-Asia,NA
+3249,TUR,Turkey,TUR.80_1,Yozgat,NA,NA,Il,Province,NA,TR.YZ,TR-66,T�rkiye-in-Asia,NA
+3250,TUR,Turkey,TUR.81_1,Zinguldak,Zonguldak,NA,Il,Province,NA,TR.ZO,NA,T�rkiye-in-Asia,NA
+3260,TWN,Taiwan,TWN.1_1,Fujian,Fukien,福建,Shěng,Province,NA,TW.FK,NA,T�rkiye-in-Asia,NA
+3261,TWN,Taiwan,TWN.2_1,Kaohsiung,Gaoxiong,高雄,Zhíxiáshì,Special Municipality,NA,TW.KH,TW-KHH,T�rkiye-in-Asia,NA
+3262,TWN,Taiwan,TWN.3_1,New Taipei,NA,新北,Zhíxiáshì,Special Municipality,NA,TW.NT,TW-NWT,T�rkiye-in-Asia,NA
+3263,TWN,Taiwan,TWN.4_1,Taichung,NA,台中,Zhíxiáshì,Special Municipality,NA,TW.TG,TW-TXG,T�rkiye-in-Asia,NA
+3264,TWN,Taiwan,TWN.5_1,Tainan,NA,台南,Zhíxiáshì,Special Municipality,NA,TW.TN,TW-TNN,T�rkiye-in-Asia,NA
+3265,TWN,Taiwan,TWN.6_1,Taipei,Taibei|Taipé|Taipeh,台北,Zhíxiáshì,Special Municipality,NA,TW.TP,TW-TPE,T�rkiye-in-Asia,NA
+3266,TWN,Taiwan,TWN.7_1,Taiwan,NA,台灣,Shěng,Province,NA,TW.TA,NA,T�rkiye-in-Asia,NA
+3356,UKR,Ukraine,?,?,?,?,?,?,NA,?,NA,Ukraine (main part),NA
+3357,UKR,Ukraine,UKR.1_1,Cherkasy,Cherkas'ka Oblast'|Cherkasskaya,Черкаська,Oblast',Region,NA,UA.CK,NA,Ukraine (main part),NA
+3358,UKR,Ukraine,UKR.2_1,Chernihiv,Chernigov|Tschernigow,Чернігівська,Oblast',Region,NA,UA.CH,NA,Ukraine (main part),NA
+3359,UKR,Ukraine,UKR.3_1,Chernivtsi,Chernivets'ka Oblast'|Chernovits,Чернівецька,Oblast',Region,NA,UA.CV,NA,Ukraine (main part),NA
+3360,UKR,Ukraine,UKR.4_1,Crimea,Crimée|Criméia|Krim|Krymskaya Re,Крим,Autonomous Republic,Autonomous Republic,NA,UA.KR,NA,Krym,NA
+3361,UKR,Ukraine,UKR.5_1,Dnipropetrovs'k,Dnipropetrovsk|Dniepropietrovsk|,Дніпропетро́вська,Oblast',Region,NA,UA.DP,NA,Ukraine (main part),NA
+3362,UKR,Ukraine,UKR.6_1,Donets'k,Donetsk|Donetskaya Oblast'|Donez,Доне́цька,Oblast',Region,NA,UA.DT,NA,Ukraine (main part),NA
+3363,UKR,Ukraine,UKR.7_1,Ivano-Frankivs'k,Ivano-Frankovsk|Ivano-Frankovska,Івано-Франківська,Oblast',Region,NA,UA.IF,NA,Ukraine (main part),NA
+3364,UKR,Ukraine,UKR.8_1,Kharkiv,Charkow|Jarkov|Karkov|Khar'kov,Харківська,Oblast',Region,NA,UA.KK,NA,Ukraine (main part),NA
+3365,UKR,Ukraine,UKR.9_1,Kherson,Cherson|Khersons'ka Oblast',Херсонська,Oblast',Region,NA,UA.KS,NA,Ukraine (main part),NA
+3366,UKR,Ukraine,UKR.10_1,Khmel'nyts'kyy,Khmelnitsky|Khmelnytskyi|Chmelni,Хмельницька,Oblast',Region,NA,UA.KM,NA,Ukraine (main part),NA
+3367,UKR,Ukraine,UKR.12_1,Kiev,Kiev Oblast|Kiew|Kijew|Kiiv|Kije,Київська,Oblast',Region,NA,UA.KV,NA,Ukraine (main part),NA
+3368,UKR,Ukraine,UKR.11_1,Kiev City,Kyiv,Київ,Independent City,Independent City,NA,UA.KC,NA,Ukraine (main part),NA
+3369,UKR,Ukraine,UKR.13_1,Kirovohrad,Kirovograd|Kirovogradskaya Oblas,Кіровоградська,Oblast',Region,NA,UA.KH,NA,Ukraine (main part),NA
+3370,UKR,Ukraine,UKR.14_1,L'viv,Lemberg|Llvov|L'vov|Lwow|L'vivs',NA,Oblast',Region,NA,UA.LV,NA,Ukraine (main part),NA
+3371,UKR,Ukraine,UKR.15_1,Luhans'k,Luhansk|Lugansk|Luhans'ka Oblast,Луганська,Oblast',Region,NA,UA.LH,NA,Ukraine (main part),NA
+3372,UKR,Ukraine,UKR.16_1,Mykolayiv,Mykolaiv|Nikolajew|Nikolayev,Миколаївська,Oblast',Region,NA,UA.MY,NA,Ukraine (main part),NA
+3373,UKR,Ukraine,UKR.17_1,Odessa,Odesa|Odes'ka Oblast'|Odesskaya,Одеська,Oblast',Region,NA,UA.OD,NA,Ukraine (main part),NA
+3374,UKR,Ukraine,UKR.18_1,Poltava,NA,Полтавська,Oblast',Region,NA,UA.PL,NA,Ukraine (main part),NA
+3375,UKR,Ukraine,UKR.19_1,Rivne,Rovno|Rivnens'ka Oblast'|Rovensk,Рівненська,Oblast',Region,NA,UA.RV,NA,Ukraine (main part),NA
+3376,UKR,Ukraine,UKR.20_1,Sevastopol',Sebastopol|Aqyar,Севастополь,Autonomous Republic,Autonomous Republic,NA,UA.SC,NA,Ukraine (main part),NA
+3377,UKR,Ukraine,UKR.21_1,Sumy,NA,Сумська,Oblast',Region,NA,UA.SM,NA,Ukraine (main part),NA
+3378,UKR,Ukraine,UKR.22_1,Ternopil',Ternopol|Ternopol',Тернопільська,Oblast',Region,NA,UA.TP,NA,Ukraine (main part),NA
+3379,UKR,Ukraine,UKR.24_1,Vinnytsya,Vinnytsia|Vinnitskaya Oblast'|Vi,Вінницька,Oblast',Region,NA,UA.VI,NA,Ukraine (main part),NA
+3380,UKR,Ukraine,UKR.25_1,Volyn,Volhynia|Volyns'ka Oblast'|Volyn,Волинська,Oblast',Region,NA,UA.VO,NA,Ukraine (main part),NA
+3381,UKR,Ukraine,UKR.23_1,Zakarpattia,Transcarpathia|Ruthenia|Zakarpat,Закарпатська,Oblast',Region,NA,UA.ZK,NA,Ukraine (main part),NA
+3382,UKR,Ukraine,UKR.26_1,Zaporizhia,Zaporizhzhya|Saporoshje|Zaporizh,Запорізька,Oblast',Region,NA,UA.ZP,NA,Ukraine (main part),NA
+3383,UKR,Ukraine,UKR.27_1,Zhytomyr,Zhitomir|Jitomir|Shitomir|Zhitom,Житомирська,Oblast',Region,NA,UA.ZT,NA,Ukraine (main part),NA
+3384,UMI,United States Minor Outlying Isl,UMI.1_1,Baker,NA,NA,Island,Island,NA,NA,NA,Howland-Baker Is.,NA
+3385,UMI,United States Minor Outlying Isl,UMI.2_1,Howland,NA,NA,Island,Island,NA,NA,NA,Howland-Baker Is.,NA
+3386,UMI,United States Minor Outlying Isl,UMI.3_1,Jarvis island,NA,NA,Island,Island,NA,NA,NA,US Line Is.,NA
+3387,UMI,United States Minor Outlying Isl,UMI.4_1,Johnston,NA,NA,Atoll,Atoll,NA,NA,NA,Johnston I.,NA
+3388,UMI,United States Minor Outlying Isl,UMI.5_1,Kingman Reef,NA,NA,Reef,Reef,NA,NA,NA,US Line Is.,NA
+3389,UMI,United States Minor Outlying Isl,UMI.6_1,Midway,NA,NA,Island,Island,NA,NA,NA,Midway Is.,NA
+3390,UMI,United States Minor Outlying Isl,UMI.7_1,Navassa,NA,NA,Island,Island,NA,NA,NA,SHOULD BE PUERTO RICO,NA
+3391,UMI,United States Minor Outlying Isl,UMI.8_1,Palmyra,NA,NA,Atoll,Atoll,NA,NA,NA,US Line Is.,NA
+3392,UMI,United States Minor Outlying Isl,UMI.9_1,Wake,NA,NA,Island,Island,NA,NA,NA,Wake Is.,NA
+3412,USA,United States,USA.1_1,Alabama,AL|Ala.,NA,State,State,NA,US.AL,US-AL,Alabama,NA
+3413,USA,United States,USA.2_1,Alaska,AK|Alaska,NA,State,State,NA,US.AK,US-AK,Alaska,1
+3414,USA,United States,USA.3_1,Arizona,AZ|Ariz.,NA,State,State,NA,US.AZ,US-AZ,Arizona,NA
+3415,USA,United States,USA.4_1,Arkansas,AR|Ark.,NA,State,State,NA,US.AR,US-AR,Arkansas,NA
+3416,USA,United States,USA.5_1,California,CA|Calif.,NA,State,State,NA,US.CA,US-CA,California,NA
+3417,USA,United States,USA.6_1,Colorado,CO|Colo.,NA,State,State,NA,US.CO,US-CO,Colorado,NA
+3418,USA,United States,USA.7_1,Connecticut,CT|Conn.,NA,State,State,NA,US.CT,US-CT,Connecticut,NA
+3419,USA,United States,USA.8_1,Delaware,DE|Del.,NA,State,State,NA,US.DE,US-DE,Delaware,NA
+3420,USA,United States,USA.9_1,District of Columbia,DC|D.C.,NA,Federal District,Federal District,NA,US.DC,US-DC,District of Columbia,NA
+3421,USA,United States,USA.10_1,Florida,FL|Fla.,NA,State,State,NA,US.FL,US-FL,Florida,NA
+3422,USA,United States,USA.11_1,Georgia,GA|Ga.,NA,State,State,NA,US.GA,US-GA,Georgia,NA
+3423,USA,United States,USA.12_1,Hawaii,HI|Hawaii,NA,State,State,NA,US.HI,US-HI,Hawaiian Is.,NA
+3424,USA,United States,USA.13_1,Idaho,ID|Idaho,NA,State,State,NA,US.ID,US-ID,Idaho,NA
+3425,USA,United States,USA.14_1,Illinois,IL|Ill.,NA,State,State,NA,US.IL,US-IL,Illinois,NA
+3426,USA,United States,USA.15_1,Indiana,IN|Ind.,NA,State,State,NA,US.IN,US-IN,Indiana,NA
+3427,USA,United States,USA.16_1,Iowa,IA|Iowa,NA,State,State,NA,US.IA,US-IA,Iowa,NA
+3428,USA,United States,USA.17_1,Kansas,KS|Kans.,NA,State,State,NA,US.KS,US-KS,Kansas,NA
+3429,USA,United States,USA.18_1,Kentucky,Commonwealth of Kentucky|KY,NA,State,State,NA,US.KY,US-KY,Kentucky,NA
+3430,USA,United States,USA.19_1,Louisiana,LA,NA,State,State,NA,US.LA,US-LA,Louisiana,NA
+3431,USA,United States,USA.20_1,Maine,ME|Maine,NA,State,State,NA,US.ME,US-ME,Maine,NA
+3432,USA,United States,USA.21_1,Maryland,MD,NA,State,State,NA,US.MD,US-MD,Maryland,NA
+3433,USA,United States,USA.22_1,Massachusetts,Commonwealth of Massachusetts|MA,NA,State,State,NA,US.MA,US-MA,Massachusetts,NA
+3434,USA,United States,USA.23_1,Michigan,MI|Mich.,NA,State,State,NA,US.MI,US-MI,Michigan,NA
+3435,USA,United States,USA.24_1,Minnesota,MN|Minn.,NA,State,State,NA,US.MN,US-MN,Minnesota,NA
+3436,USA,United States,USA.25_1,Mississippi,MS|Miss.,NA,State,State,NA,US.MS,US-MS,Mississippi,NA
+3437,USA,United States,USA.26_1,Missouri,MO,NA,State,State,NA,US.MO,US-MO,Missouri,NA
+3438,USA,United States,USA.27_1,Montana,MT|Mont.,NA,State,State,NA,US.MT,US-MT,Montana,NA
+3439,USA,United States,USA.28_1,Nebraska,NE|Nebr.,NA,State,State,NA,US.NE,US-NE,Nebraska,NA
+3440,USA,United States,USA.29_1,Nevada,NV|Nev.,NA,State,State,NA,US.NV,US-NV,Nevada,NA
+3441,USA,United States,USA.30_1,New Hampshire,NH|N.H.,NA,State,State,NA,US.NH,US-NH,New Hampshire,NA
+3442,USA,United States,USA.31_1,New Jersey,NJ|N.J.,NA,State,State,NA,US.NJ,US-NJ,New Jersey,NA
+3443,USA,United States,USA.32_1,New Mexico,NM|N.M.,NA,State,State,NA,US.NM,US-NM,New Mexico,NA
+3444,USA,United States,USA.33_1,New York,NY|N.Y.,NA,State,State,NA,US.NY,US-NY,New York,NA
+3445,USA,United States,USA.34_1,North Carolina,NC|N.C.,NA,State,State,NA,US.NC,US-NC,North Carolina,NA
+3446,USA,United States,USA.35_1,North Dakota,ND|N.D.,NA,State,State,NA,US.ND,US-ND,North Dakota,NA
+3447,USA,United States,USA.36_1,Ohio,OH|Ohio,NA,State,State,NA,US.OH,US-OH,Ohio,NA
+3448,USA,United States,USA.37_1,Oklahoma,OK|Okla.,NA,State,State,NA,US.OK,US-OK,Oklahoma,NA
+3449,USA,United States,USA.38_1,Oregon,OR|Ore.,NA,State,State,NA,US.OR,US-OR,Oregon,NA
+3450,USA,United States,USA.39_1,Pennsylvania,Commonwealth of Pennsylvania|PA,NA,State,State,NA,US.PA,US-PA,Pennsylvania,NA
+3451,USA,United States,USA.40_1,Rhode Island,State of Rhode Island and Provid,NA,State,State,NA,US.RI,US-RI,Rhode Island,NA
+3452,USA,United States,USA.41_1,South Carolina,SC|S.C.,NA,State,State,NA,US.SC,US-SC,South Carolina,NA
+3453,USA,United States,USA.42_1,South Dakota,SD|S.D.,NA,State,State,NA,US.SD,US-SD,South Dakota,NA
+3454,USA,United States,USA.43_1,Tennessee,TN|Tenn.,NA,State,State,NA,US.TN,US-TN,Tennessee,NA
+3455,USA,United States,USA.44_1,Texas,TX|Tex.,NA,State,State,NA,US.TX,US-TX,Texas,NA
+3456,USA,United States,USA.45_1,Utah,UT,NA,State,State,NA,US.UT,US-UT,Utah,NA
+3457,USA,United States,USA.46_1,Vermont,VT,NA,State,State,NA,US.VT,US-VT,Vermont,NA
+3458,USA,United States,USA.47_1,Virginia,VA,NA,State,State,NA,US.VA,US-VA,Virginia,NA
+3459,USA,United States,USA.48_1,Washington,WA|Wash.,NA,State,State,NA,US.WA,US-WA,Washington,NA
+3460,USA,United States,USA.49_1,West Virginia,WV|W.Va.,NA,State,State,NA,US.WV,US-WV,West Virginia,NA
+3461,USA,United States,USA.50_1,Wisconsin,WI|Wis.,NA,State,State,NA,US.WI,US-WI,Wisconsin,NA
+3462,USA,United States,USA.51_1,Wyoming,WY|Wyo.,NA,State,State,NA,US.WY,US-WY,Wyoming,NA
+3601,XKO,Kosovo,XKO.1_1,Đakovica,NA,NA,Okrug,District,NA,NA,NA,Kosovo,NA
+3602,XKO,Kosovo,XKO.2_1,Gnjilane,NA,NA,Okrug,District,NA,NA,NA,Kosovo,NA
+3603,XKO,Kosovo,XKO.3_1,Kosovska Mitrovica,NA,NA,Okrug,District,NA,RS.KM,NA,Kosovo,NA
+3604,XKO,Kosovo,XKO.4_1,Pećki,Peć,Пећки,Okrug,District,NA,RS.PE,NA,Kosovo,NA
+3605,XKO,Kosovo,XKO.5_1,Pristina,NA,NA,Okrug,District,NA,NA,NA,Kosovo,NA
+3606,XKO,Kosovo,XKO.6_1,Prizren,NA,NA,Okrug,District,NA,RS.PZ,NA,Kosovo,NA
+3607,XKO,Kosovo,XKO.7_1,Uroševac,NA,NA,Okrug,District,NA,NA,NA,Kosovo,NA
+3608,YEM,Yemen,YEM.1_1,`Adan,Aden,عدن,Muhafazah,Governorate,24,YE.AD,NA,South Yemen,NA
+3609,YEM,Yemen,YEM.2_1,Abyan,NA,أبين,Muhafazah,Governorate,12,YE.AB,YE-AB,South Yemen,NA
+3610,YEM,Yemen,YEM.3_1,Al Bayda',Albaidah|Al Baidha|Al-Baydha|Al,البيضاء,Muhafazah,Governorate,14,YE.BA,YE-BA,North Yemen,NA
+3611,YEM,Yemen,YEM.4_1,Al Dali',Al Dhale'e,الضالع,Muhafazah,Governorate,30,YE.DL,NA,North Yemen,NA
+3612,YEM,Yemen,YEM.5_1,Al Hudaydah,Al Hodeida|Al-Hodeidah|Al Hudaid,الحديده,Muhafazah,Governorate,18,YE.HU,YE-HU,North Yemen,NA
+3613,YEM,Yemen,YEM.6_1,Al Jawf,Al Jouf|Aljowf|Jawf,الجوف,Muhafazah,Governorate,16,YE.JA,NA,North Yemen,NA
+3614,YEM,Yemen,YEM.7_1,Al Mahrah,Al Ghaydah|Al-Mahara|Almaharah|a,المهره,Muhafazah,Governorate,28,YE.MR,YE-MR,South Yemen,NA
+3615,YEM,Yemen,YEM.8_1,Al Mahwit,Almahweet|Mahweet,المحويت,Muhafazah,Governorate,27,YE.MW,YE-MW,North Yemen,NA
+3616,YEM,Yemen,YEM.9_1,Amanat Al Asimah,NA,أمانة العاصمة,Muhafazah,Governorate,13,NA,NA,North Yemen,NA
+3617,YEM,Yemen,YEM.10_1,Amran,'Amran,عمران,Muhafazah,Governorate,29,YE.AM,NA,North Yemen,NA
+3618,YEM,Yemen,YEM.11_1,Dhamar,NA,ذمار,Muhafazah,Governorate,20,YE.DH,YE-DH,North Yemen,NA
+3619,YEM,Yemen,YEM.12_1,Hadramawt,Hadhramaut|Hadhramawt|Hadhramout,حضرموت,Muhafazah,Governorate,19,YE.HD,YE-HD,South Yemen,1
+3620,YEM,Yemen,YEM.13_1,Hajjah,Hajja,حجه,Muhafazah,Governorate,17,YE.HJ,YE-HJ,North Yemen,NA
+3621,YEM,Yemen,YEM.14_1,Ibb,NA,إب,Muhafazah,Governorate,11,YE.IB,YE-IB,North Yemen,NA
+3622,YEM,Yemen,YEM.15_1,Lahij,Laheg|Lahej|Lahj|Tuban,لحج,Muhafazah,Governorate,25,YE.LA,YE-LA,South Yemen,NA
+3623,YEM,Yemen,YEM.16_1,Ma'rib,Mareb|Marib,مأرب,Muhafazah,Governorate,26,YE.MA,YE-MA,North Yemen,NA
+3624,YEM,Yemen,YEM.17_1,Raymah,NA,ريمة,Muhafazah,Governorate,31,NA,NA,North Yemen,NA
+3625,YEM,Yemen,YEM.18_1,Sa`dah,Sa'ada|Saadah|Sa'da|Saidah|Sa'ad,صعدة,Muhafazah,Governorate,22,YE.SD,NA,North Yemen,NA
+3626,YEM,Yemen,YEM.19_1,San`a',Sana'a,صنعاء,City,City,23,YE.SN,NA,North Yemen,NA
+3627,YEM,Yemen,YEM.20_1,Shabwah,Shabwa|Shibwah|Ataq,شبوة,Muhafazah,Governorate,21,YE.SH,YE-SH,South Yemen,NA
+3628,YEM,Yemen,YEM.21_1,Ta`izz,Taez|Taiz|Taizz,تعز,Muhafazah,Governorate,15,YE.TA,NA,North Yemen,NA
+3629,ZAF,South Africa,ZAF.1_1,Eastern Cape,Oos-Kaap,NA,Provinsie,Province,EC,ZA.EC,ZA-EC,Eastern Cape Province,NA
+3630,ZAF,South Africa,ZAF.2_1,Free State,Orange Free State|Vrystaat,NA,Provinsie,Province,FS,ZA.FS,ZA-FS,Free State,NA
+3631,ZAF,South Africa,ZAF.3_1,Gauteng,Pretoria/Witwatersrand/Vaal,NA,Provinsie,Province,GT,ZA.GT,ZA-GP,Gauteng,NA
+3632,ZAF,South Africa,ZAF.4_1,KwaZulu-Natal,Natal and Zululand,NA,Provinsie,Province,KZN,ZA.NL,NA,KwaZulu-Natal,NA
+3633,ZAF,South Africa,ZAF.5_1,Limpopo,Noordelike Provinsie|Northern Tr,NA,Provinsie,Province,LIM,ZA.NP,ZA-LP,Limpopo Province,NA
+3634,ZAF,South Africa,ZAF.6_1,Mpumalanga,Eastern Transvaal,NA,Provinsie,Province,MP,ZA.MP,ZA-MP,Mpumalanga,NA
+3635,ZAF,South Africa,ZAF.7_1,North West,North-West|Noordwes,NA,Provinsie,Province,NW,ZA.NW,NA,North-West Province,NA
+3636,ZAF,South Africa,ZAF.8_1,Northern Cape,Noord-Kaap,NA,Provinsie,Province,NC,ZA.NC,ZA-NC,Northern Cape Province,NA
+3637,ZAF,South Africa,ZAF.9_1,Western Cape,Wes-Kaap,NA,Provinsie,Province,WC,ZA.WC,ZA-WC,Western Cape,NA

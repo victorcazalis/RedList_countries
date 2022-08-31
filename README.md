@@ -30,7 +30,7 @@ Step 5: Manual fixes
 - Coco Islands are attributed to India in GADM (as part of Andaman and Nicobar) but to Myanmar in SIS. I changed the attribution
 - Navassa I. is attributed to US Minor Outlying Islands in GADM but belongs to Puerto Rico in SIS. I changed the attribution.
 - I manually assigned Clipperton I. as a subnational entity of France.
-- A few islands were missing from GADM dataset so I took their polygons from different data source. This was the case of some Ogasawara islands (Japan), Malpelo Island (Colombia), Roxas Alijos (Mexico), and Marion Prince Edward Islands (South Africa).
+- A few islands were missing from GADM dataset so I took their polygons from different data source. This was the case of some Ogasawara islands (Japan), Malpelo Island (Colombia), Rocas Alijos (Mexico), and Marion Prince Edward Islands (South Africa).
 - I used GADM lower level (2) to split a few small additional entities that are level 1 in SIS: Mahé and Yanam (Pondicherry), Trindade (Goias Brazil), Darjiling (West Benghal, India), Nagorno-Karabakh (this split has been done manually and quite coarsly because the Nagorno-Karabakh borders do not match GADM administrative boundaries).
 
 Problems remaining in version 2022-1:

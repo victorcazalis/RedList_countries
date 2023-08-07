@@ -7,9 +7,11 @@ This shapefile maps the Red List list of countries and subnational entities used
 *** 
 NEWS IN VERSION 2023-1:
 
-I fixed 3 subnational entity names that had typos in version 2022.1: Magellanes (Chile) was written "Magallanes" in 2022.1, Spratly Is. (Disputed territory) were written "Spartly Is." in 2022.1, and Jharkand (India) was written "Jharkhand" in 2022.1.
-I also added two columns: lookup gives the lookup of the entity (country or subnational entity) according to the lookup list from SIS Connect; lk_SIS0 gives the lookup of the parent country (ie level 0 for SIS) of each entity.
-Columns have been renamed with shorter names: SIS_nm0 for SIS_name0, SIS_nm1 for SIS_name1, lookup and lk_SIS0 
+- I fixed 3 subnational entity names that had typos in version 2022.1: Magellanes (Chile) was written "Magallanes" in 2022.1, Spratly Is. (Disputed territory) were written "Spartly Is." in 2022.1, and Jharkand (India) was written "Jharkhand" in 2022.1.
+
+- I added two columns: lookup gives the lookup of the entity (country or subnational entity) according to the lookup list from SIS Connect; lk_SIS0 gives the lookup of the parent country (ie level 0 for SIS) of each entity.
+
+- Columns have been renamed with shorter names: SIS_nm0 for SIS_name0, SIS_nm1 for SIS_name1, lookup and lk_SIS0 
 
 ***
 

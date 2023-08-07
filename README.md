@@ -4,6 +4,13 @@ Global shapefile of countries / subnational entities matching Red List (SIS) lis
 
 This shapefile maps the Red List list of countries and subnational entities used in the Countries of Occurrence classification (levels 0 and 1).
 
+*** NEWS IN VERSION 2023-1 
+I fixed 3 subnational entity names that had typos in version 2022.1: Magellanes (Chile) was written "Magallanes" in 2022.1, Spratly Is. (Disputed territory) were written "Spartly Is." in 2022.1, and Jharkand (India) was written "Jharkhand" in 2022.1.
+I also added two columns: lookup gives the lookup of the entity (country or subnational entity) according to the lookup list from SIS Connect; lk_SIS0 gives the lookup of the parent country (ie level 0 for SIS) of each entity.
+Columns have been renamed with shorter names: SIS_nm0 for SIS_name0, SIS_nm1 for SIS_name1, lookup and lk_SIS0
+
+***
+
 General methodology:
 The base map used to create this shapefile is the GADM map version 4.1 (as recommended on the Red List Spatial Tools and Data website: https://www.iucnredlist.org/resources/spatialtoolsanddata). It was downloaded from https://gadm.org/index.html on the 25th of August 2022.
 
@@ -30,10 +37,10 @@ Step 5: Manual fixes
 - Coco Islands are attributed to India in GADM (as part of Andaman and Nicobar) but to Myanmar in SIS. I changed the attribution
 - Navassa I. is attributed to US Minor Outlying Islands in GADM but belongs to Puerto Rico in SIS. I changed the attribution.
 - I manually assigned Clipperton I. as a subnational entity of France.
-- A few islands were missing from GADM dataset so I took their polygons from different data source. This was the case of some Ogasawara islands (Japan), Malpelo Island (Colombia), Rocas Alijos (Mexico), and Marion Prince Edward Islands (South Africa).
+- A few islands were missing from GADM dataset so I took their polygons from different data source. This was the case of some Ogasawara islands (Japan), Malpelo Island (Colombia), Roxas Alijos (Mexico), and Marion Prince Edward Islands (South Africa).
 - I used GADM lower level (2) to split a few small additional entities that are level 1 in SIS: Mahé and Yanam (Pondicherry), Trindade (Goias Brazil), Darjiling (West Benghal, India), Nagorno-Karabakh (this split has been done manually and quite coarsly because the Nagorno-Karabakh borders do not match GADM administrative boundaries).
 
-Problems remaining in version 2022-1:
+Problems remaining in version 2023-1:
 -	Russia has a second level of subnational entities in SIS, I did not split regions at that level because I was not able to match names in SIS with names in adm1.
 -	Some regions are missing in SIS but I still included them in this shapefile to avoid having holes in the map. This includes: Arica y Parinacota (Chile), Nuble (Chile), Los Rios (Chile), Telangana (India). I reported this in the column “Absent_SIS”.
 

@@ -4,6 +4,25 @@ Global shapefile of countries / subnational entities matching Red List (SIS) lis
 
 This shapefile maps the Red List list of countries and subnational entities used in the Countries of Occurrence classification (levels 0 and 1).
 
+
+*** 
+NEWS IN VERSION 2026-2:
+
+This version followed an alignment with FAO map and World Geographical Scheme for Recording Plant Distributions document. It included:
+- assigning sub-sub-national entities in Russia
+- adjust the sub-national category assigned to many islands to match the WGSRPD (for instance Aleoutian islands, Bismark Archipelago, Kiribati, Greece, Tuamotu, Diomede islands, Antipodean islands, Hawaii, Greenland, Nunavut, Turtle islands, Aldabra)
+- fix some geometries around Golan, Kalimpong district,
+- fix Brazil Trinidade island (previously wrongly assigned to a city)
+- excluding great lakes from terrestrial land
+
+
+*** 
+NEWS IN VERSION 2026-1:
+
+- Lookup corrected for: American Samoa -> American Samoa (SAM-AS), Armenia -> Armenia (TCS-AR), Serbia -> Serbia (YUG-SE) and US -> Georgia (GEO-OO).
+- Switch from shapefiles to geopackages
+
+
 *** 
 NEWS IN VERSION 2023-1:
 
